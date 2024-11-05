@@ -1,0 +1,23 @@
+{
+glyphname = I;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,500,l),
+(65,0,l),
+(155,0,l),
+(150,250,l),
+(155,700,l),
+(65,700,l)
+);
+}
+);
+width = 220;
+}
+);
+unicode = 73;
+}
