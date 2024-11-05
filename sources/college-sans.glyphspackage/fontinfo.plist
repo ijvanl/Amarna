@@ -45,23 +45,89 @@ over = -20;
 {
 over = -20;
 pos = -300;
+},
+{
 }
 );
 name = Regular;
+},
+{
+axesValues = (
+500,
+0
+);
+guides = (
+{
+angle = 112;
+pos = (461,-150);
+}
+);
+iconName = SemiBold;
+id = m003;
+metricValues = (
+{
+over = 20;
+pos = 750;
+},
+{
+over = 20;
+pos = 700;
+},
+{
+over = 20;
+pos = 500;
+},
+{
+over = -20;
+},
+{
+over = -20;
+pos = -300;
+},
+{
+}
+);
+name = Medium;
+},
+{
+axesValues = (
+600,
+0
+);
+guides = (
+{
+angle = 112;
+pos = (461,-150);
+}
+);
+id = "BB3F2C30-9513-40C8-8DEE-D83156CA2EC7";
+metricValues = (
+{
+over = 20;
+pos = 750;
+},
+{
+over = 20;
+pos = 700;
+},
+{
+over = 20;
+pos = 500;
+},
+{
+over = -20;
+},
+{
+over = -20;
+pos = -300;
+},
+{
+}
+);
+name = Semibold;
 }
 );
 instances = (
-{
-axesValues = (
-100,
-0
-);
-instanceInterpolations = {
-m002 = 1;
-};
-name = Thin;
-weightClass = 100;
-},
 {
 axesValues = (
 400,
@@ -71,6 +137,28 @@ instanceInterpolations = {
 m002 = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+500,
+0
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600,
+0
+);
+instanceInterpolations = {
+"BB3F2C30-9513-40C8-8DEE-D83156CA2EC7" = 1;
+};
+name = Semibold;
+weightClass = 600;
 }
 );
 metrics = (
@@ -88,6 +176,9 @@ type = baseline;
 },
 {
 type = descender;
+},
+{
+type = "italic angle";
 }
 );
 unitsPerEm = 1000;
