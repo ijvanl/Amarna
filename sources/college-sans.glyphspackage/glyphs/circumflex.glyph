@@ -1,0 +1,10 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 710;
+}

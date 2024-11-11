@@ -1,0 +1,10 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 94;
+}

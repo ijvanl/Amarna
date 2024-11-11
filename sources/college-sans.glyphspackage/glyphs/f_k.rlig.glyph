@@ -1,0 +1,18 @@
+{
+glyphname = f_k.rlig;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (325,0);
+ref = k;
+}
+);
+width = 805;
+}
+);
+}

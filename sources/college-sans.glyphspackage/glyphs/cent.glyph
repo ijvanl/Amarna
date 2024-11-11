@@ -1,0 +1,10 @@
+{
+glyphname = cent;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 162;
+}

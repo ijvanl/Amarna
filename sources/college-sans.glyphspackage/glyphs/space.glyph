@@ -4,14 +4,6 @@ layers = (
 {
 layerId = m002;
 width = 300;
-},
-{
-layerId = m003;
-width = 300;
-},
-{
-layerId = "BB3F2C30-9513-40C8-8DEE-D83156CA2EC7";
-width = 300;
 }
 );
 unicode = 32;

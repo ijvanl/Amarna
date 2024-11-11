@@ -1,0 +1,10 @@
+{
+glyphname = guillemetright;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 187;
+}
