@@ -3,7 +3,12 @@ glyphname = caron;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 380;
 }
 );
 unicode = 711;

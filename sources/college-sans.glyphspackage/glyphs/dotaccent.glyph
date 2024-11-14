@@ -3,7 +3,12 @@ glyphname = dotaccent;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = dotaccentcomb;
+}
+);
+width = 230;
 }
 );
 unicode = 729;

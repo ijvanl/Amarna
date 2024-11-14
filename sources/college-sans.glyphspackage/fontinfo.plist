@@ -81,7 +81,7 @@ axesValues = (
 guides = (
 {
 angle = 113.6725;
-pos = (461,-160);
+pos = (462,-160);
 }
 );
 id = m002;
@@ -115,6 +115,12 @@ stemValues = (
 65,
 80
 );
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetMakeStroke = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
+};
 }
 );
 instances = (

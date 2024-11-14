@@ -3,7 +3,21 @@ glyphname = dollar;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,-95,l),
+(340,795,l),
+(270,795,l),
+(270,-95,l)
+);
+},
+{
+ref = S;
+}
+);
+width = 581;
 }
 );
 unicode = 36;

@@ -1,0 +1,19 @@
+{
+glyphname = Ydieresis;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (103,200);
+ref = dieresiscomb;
+}
+);
+width = 596;
+}
+);
+unicode = 376;
+}

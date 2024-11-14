@@ -3,7 +3,12 @@ glyphname = ring;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 374;
 }
 );
 unicode = 730;

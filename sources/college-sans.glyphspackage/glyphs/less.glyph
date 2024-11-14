@@ -3,6 +3,13 @@ glyphname = less;
 layers = (
 {
 layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (600,500);
+ref = greater;
+}
+);
 width = 600;
 }
 );

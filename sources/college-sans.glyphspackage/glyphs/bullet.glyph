@@ -3,7 +3,14 @@ glyphname = bullet;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (-20,154);
+ref = period;
+scale = (2,2);
+}
+);
+width = 420;
 }
 );
 unicode = 8226;

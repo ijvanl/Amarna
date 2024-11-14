@@ -3,6 +3,11 @@ glyphname = ogonek;
 layers = (
 {
 layerId = m002;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
 width = 600;
 }
 );

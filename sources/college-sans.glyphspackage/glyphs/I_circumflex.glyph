@@ -1,0 +1,19 @@
+{
+glyphname = Icircumflex;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-80,200);
+ref = circumflexcomb;
+}
+);
+width = 220;
+}
+);
+unicode = 206;
+}

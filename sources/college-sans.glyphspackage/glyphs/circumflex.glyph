@@ -3,7 +3,12 @@ glyphname = circumflex;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = circumflexcomb;
+}
+);
+width = 380;
 }
 );
 unicode = 710;

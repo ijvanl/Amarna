@@ -2,6 +2,24 @@
 glyphname = u;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = ogonek;
+pos = (465,10);
+},
+{
+name = top;
+pos = (265,500);
+},
+{
+name = topright;
+pos = (510,500);
+}
+);
 background = {
 shapes = (
 {

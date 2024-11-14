@@ -2,8 +2,24 @@
 glyphname = commaaccentcomb;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (110,0);
+},
+{
+name = bottom;
+pos = (110,-331);
+}
+);
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (0,-190);
+ref = comma;
+}
+);
+width = 230;
 }
 );
 unicode = 806;

@@ -1,0 +1,19 @@
+{
+glyphname = Ograve;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (218,200);
+ref = gravecomb;
+}
+);
+width = 795;
+}
+);
+unicode = 210;
+}

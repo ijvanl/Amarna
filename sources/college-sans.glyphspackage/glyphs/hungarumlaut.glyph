@@ -3,7 +3,12 @@ glyphname = hungarumlaut;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 400;
 }
 );
 unicode = 733;

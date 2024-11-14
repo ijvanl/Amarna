@@ -2,8 +2,29 @@
 glyphname = dieresiscomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (195,500);
+},
+{
+name = top;
+pos = (195,713);
+}
+);
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (160,-20);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (0,-20);
+ref = dotaccentcomb;
+}
+);
+width = 390;
 }
 );
 unicode = 776;

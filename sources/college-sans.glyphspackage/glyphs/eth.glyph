@@ -2,6 +2,16 @@
 glyphname = eth;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (267,0);
+},
+{
+name = top;
+pos = (267,750);
+}
+);
 layerId = m002;
 shapes = (
 {

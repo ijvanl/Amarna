@@ -2,8 +2,38 @@
 glyphname = circumflexcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (190,500);
+},
+{
+name = top;
+pos = (190,755);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(290,585,l),
+(320,615,l),
+(190,755,l),
+(60,615,l),
+(90,585,l),
+(190,650,l)
+);
+}
+);
+width = 380;
 }
 );
 unicode = 770;

@@ -3,7 +3,22 @@ glyphname = parenleft;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-20,540,o),
+(-20,120,o),
+(260,-165,c),
+(300,-130,l),
+(80,133,o),
+(80,527,o),
+(300,790,c),
+(260,825,l)
+);
+}
+);
+width = 300;
 }
 );
 unicode = 40;

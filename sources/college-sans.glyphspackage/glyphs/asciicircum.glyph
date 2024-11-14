@@ -3,7 +3,21 @@ glyphname = asciicircum;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,765,l),
+(60,470,l),
+(125,435,l),
+(240,676,l),
+(345,435,l),
+(420,470,l),
+(260,765,l)
+);
+}
+);
+width = 480;
 }
 );
 unicode = 94;

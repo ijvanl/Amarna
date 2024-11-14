@@ -3,7 +3,12 @@ glyphname = cedilla;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
 }
 );
 unicode = 184;

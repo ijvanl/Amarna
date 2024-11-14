@@ -1,0 +1,38 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (120,0);
+},
+{
+name = ogonek;
+pos = (180,0);
+},
+{
+name = top;
+pos = (120,500);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,250,l),
+(85,0,l),
+(180,0,l),
+(165,250,l),
+(165,510,l),
+(75,490,l)
+);
+}
+);
+width = 240;
+}
+);
+metricWidth = "=i";
+unicode = 305;
+}

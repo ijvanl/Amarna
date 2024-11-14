@@ -2,8 +2,38 @@
 glyphname = macroncomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (200,500);
+},
+{
+name = top;
+pos = (200,720);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,700,l),
+(200,695,l),
+(60,700,l),
+(60,630,l),
+(200,635,l),
+(340,630,l)
+);
+}
+);
+width = 400;
 }
 );
 unicode = 772;

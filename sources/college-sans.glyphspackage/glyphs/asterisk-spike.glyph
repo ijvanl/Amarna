@@ -1,0 +1,26 @@
+{
+export = 0;
+glyphname = "asterisk-spike";
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,500,l),
+(120,500,l),
+(149,601,ls),
+(158,633,o),
+(140,655,o),
+(116,655,cs),
+(88,655,o),
+(72,634,o),
+(81,601,cs)
+);
+}
+);
+width = 600;
+}
+);
+}

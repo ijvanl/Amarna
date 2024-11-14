@@ -2,6 +2,16 @@
 glyphname = S;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (291,0);
+},
+{
+name = top;
+pos = (291,700);
+}
+);
 background = {
 shapes = (
 {

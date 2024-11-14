@@ -3,8 +3,18 @@ glyphname = quotedblbase;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (160,0);
+ref = quotesinglbase;
+},
+{
+ref = quotesinglbase;
 }
 );
+width = 390;
+}
+);
+metricRight = "=quotesinglbase";
 unicode = 8222;
 }

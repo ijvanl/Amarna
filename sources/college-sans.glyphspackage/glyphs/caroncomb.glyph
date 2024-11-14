@@ -2,8 +2,32 @@
 glyphname = caroncomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (190,500);
+},
+{
+name = top;
+pos = (190,755);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (0,1335);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+width = 380;
 }
 );
 unicode = 780;

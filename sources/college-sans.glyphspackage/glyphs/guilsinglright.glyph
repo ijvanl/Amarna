@@ -3,7 +3,20 @@ glyphname = guilsinglright;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,80,l),
+(85,50,l),
+(275,250,l),
+(85,450,l),
+(50,420,l),
+(155,250,l)
+);
+}
+);
+width = 325;
 }
 );
 unicode = 8250;

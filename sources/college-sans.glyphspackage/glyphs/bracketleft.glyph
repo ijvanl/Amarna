@@ -3,7 +3,22 @@ glyphname = bracketleft;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,-145,l),
+(240,-163,l),
+(245,-123,l),
+(130,-95,l),
+(130,755,l),
+(245,783,l),
+(240,823,l),
+(50,805,l)
+);
+}
+);
+width = 265;
 }
 );
 unicode = 91;

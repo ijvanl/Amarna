@@ -2,6 +2,16 @@
 glyphname = f.lig_ascender;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (163,0);
+},
+{
+name = top;
+pos = (163,750);
+}
+);
 background = {
 shapes = (
 {

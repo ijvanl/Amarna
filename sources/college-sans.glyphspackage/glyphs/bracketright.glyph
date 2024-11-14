@@ -3,8 +3,17 @@ glyphname = bracketright;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+angle = 180;
+pos = (265,660);
+ref = bracketleft;
 }
 );
+width = 265;
+}
+);
+metricLeft = "=|bracketleft";
+metricRight = "=|bracketleft";
 unicode = 93;
 }

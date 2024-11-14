@@ -3,7 +3,14 @@ glyphname = quoteright;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+angle = 180;
+pos = (230,1240);
+ref = quoteleft;
+}
+);
+width = 230;
 }
 );
 unicode = 8217;

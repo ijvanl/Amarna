@@ -2,6 +2,16 @@
 glyphname = AE;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (450,0);
+},
+{
+name = top;
+pos = (450,700);
+}
+);
 layerId = m002;
 shapes = (
 {

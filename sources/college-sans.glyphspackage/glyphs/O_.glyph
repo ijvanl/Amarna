@@ -2,6 +2,32 @@
 glyphname = O;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (398,0);
+},
+{
+name = center;
+pos = (398,350);
+},
+{
+name = ogonek;
+pos = (716,10);
+},
+{
+name = top;
+pos = (398,700);
+},
+{
+name = topleft;
+pos = (20,700);
+},
+{
+name = topright;
+pos = (775,700);
+}
+);
 background = {
 shapes = (
 {

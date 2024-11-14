@@ -3,7 +3,12 @@ glyphname = grave;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 320;
 }
 );
 unicode = 96;

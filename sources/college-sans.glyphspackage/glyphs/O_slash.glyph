@@ -1,0 +1,10 @@
+{
+glyphname = Oslash;
+layers = (
+{
+layerId = m002;
+width = 600;
+}
+);
+unicode = 216;
+}

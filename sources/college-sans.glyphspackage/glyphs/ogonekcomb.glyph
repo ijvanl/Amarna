@@ -2,7 +2,28 @@
 glyphname = ogonekcomb;
 layers = (
 {
+anchors = (
+{
+name = _ogonek;
+pos = (195,0);
+}
+);
 layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,-179,o),
+(91,-62,o),
+(195,0,c),
+(165,20,l),
+(-13,-91,o),
+(84,-259,o),
+(231,-248,c),
+(249,-177,l)
+);
+}
+);
 width = 600;
 }
 );

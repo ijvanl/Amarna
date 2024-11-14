@@ -2,6 +2,16 @@
 glyphname = Thorn;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (280,0);
+},
+{
+name = top;
+pos = (280,700);
+}
+);
 layerId = m002;
 shapes = (
 {

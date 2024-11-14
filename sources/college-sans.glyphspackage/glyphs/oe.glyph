@@ -2,9 +2,31 @@
 glyphname = oe;
 layers = (
 {
-layerId = m002;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (428,0);
+},
+{
+name = top;
+pos = (428,500);
 }
 );
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (381,0);
+ref = e;
+}
+);
+width = 855;
+}
+);
+metricLeft = "=o";
+metricRight = "=e";
 unicode = 339;
 }

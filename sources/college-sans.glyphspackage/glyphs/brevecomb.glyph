@@ -2,8 +2,41 @@
 glyphname = brevecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (210,500);
+},
+{
+name = top;
+pos = (210,755);
+}
+);
+background = {
+shapes = (
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(146,639,o),
+(105,755,c),
+(60,745,l),
+(103,544,o),
+(317,544,o),
+(360,745,c),
+(315,755,l),
+(274,639,o)
+);
+}
+);
+width = 420;
 }
 );
 unicode = 774;

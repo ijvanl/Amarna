@@ -3,7 +3,16 @@ glyphname = guillemetright;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (220,0);
+ref = guilsinglright;
+}
+);
+width = 545;
 }
 );
 unicode = 187;

@@ -2,8 +2,41 @@
 glyphname = tildecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (226,500);
+},
+{
+name = top;
+pos = (226,714);
+}
+);
+background = {
+shapes = (
+{
+pos = (-14,0);
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,595,o),
+(178,830,o),
+(60,630,c),
+(101,606,l),
+(186,725,o),
+(275,490,o),
+(392,690,c),
+(351,714,l)
+);
+}
+);
+width = 452;
 }
 );
 unicode = 771;

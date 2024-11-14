@@ -1,0 +1,19 @@
+{
+glyphname = abreve;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (32,0);
+ref = brevecomb;
+}
+);
+width = 483;
+}
+);
+unicode = 259;
+}

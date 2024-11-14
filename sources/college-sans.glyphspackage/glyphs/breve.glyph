@@ -3,7 +3,12 @@ glyphname = breve;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 420;
 }
 );
 unicode = 728;

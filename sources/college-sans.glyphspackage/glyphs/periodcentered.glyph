@@ -3,7 +3,13 @@ glyphname = periodcentered;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (0,202);
+ref = period;
+}
+);
+width = 230;
 }
 );
 unicode = 183;

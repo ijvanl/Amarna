@@ -3,7 +3,16 @@ glyphname = quotedbl;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (130,0);
+ref = quotesingle;
+}
+);
+width = 320;
 }
 );
 unicode = 34;

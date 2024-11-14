@@ -2,6 +2,24 @@
 glyphname = I;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (110,0);
+},
+{
+name = ogonek;
+pos = (198,10);
+},
+{
+name = top;
+pos = (110,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
 layerId = m002;
 shapes = (
 {

@@ -2,8 +2,45 @@
 glyphname = hungarumlautcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (155,500);
+},
+{
+name = top;
+pos = (155,771);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,592,l),
+(94,573,l),
+(205,735,l),
+(131,771,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(195,592,l),
+(229,573,l),
+(340,735,l),
+(266,771,l)
+);
+}
+);
+width = 400;
 }
 );
 unicode = 779;

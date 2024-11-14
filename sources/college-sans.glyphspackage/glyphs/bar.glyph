@@ -3,7 +3,18 @@ glyphname = bar;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,795,l),
+(150,795,l),
+(150,-45,l),
+(80,-45,l)
+);
+}
+);
+width = 230;
 }
 );
 unicode = 124;

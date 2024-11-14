@@ -2,8 +2,37 @@
 glyphname = acutecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (140,500);
+},
+{
+name = top;
+pos = (140,760);
+}
+);
+background = {
+shapes = (
+{
+pos = (-54,0);
+ref = dieresiscomb;
+}
+);
+};
 layerId = m002;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,614,l),
+(81,579,l),
+(255,677,l),
+(204,750,l)
+);
+}
+);
+width = 320;
 }
 );
 unicode = 769;

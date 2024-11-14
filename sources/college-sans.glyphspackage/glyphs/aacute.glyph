@@ -1,0 +1,19 @@
+{
+glyphname = aacute;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (102,0);
+ref = acutecomb;
+}
+);
+width = 483;
+}
+);
+unicode = 225;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Ygrave;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (118,200);
+ref = gravecomb;
+}
+);
+width = 596;
+}
+);
+unicode = 7922;
+}

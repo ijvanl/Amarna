@@ -1,0 +1,19 @@
+{
+glyphname = Gbreve;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (137,200);
+ref = brevecomb;
+}
+);
+width = 693;
+}
+);
+unicode = 286;
+}

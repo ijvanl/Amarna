@@ -2,6 +2,24 @@
 glyphname = L;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (270,0);
+},
+{
+name = center;
+pos = (270,350);
+},
+{
+name = top;
+pos = (155,700);
+},
+{
+name = topright;
+pos = (156,700);
+}
+);
 layerId = m002;
 shapes = (
 {

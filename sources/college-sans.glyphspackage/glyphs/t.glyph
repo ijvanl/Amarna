@@ -2,6 +2,24 @@
 glyphname = t;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (219,0);
+},
+{
+name = center;
+pos = (179,250);
+},
+{
+name = top;
+pos = (179,500);
+},
+{
+name = topright;
+pos = (198,790);
+}
+);
 background = {
 shapes = (
 {

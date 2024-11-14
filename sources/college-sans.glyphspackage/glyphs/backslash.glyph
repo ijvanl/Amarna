@@ -3,7 +3,14 @@ glyphname = backslash;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (340,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 340;
 }
 );
 unicode = 92;

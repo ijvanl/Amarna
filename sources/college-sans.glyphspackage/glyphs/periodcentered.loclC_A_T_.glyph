@@ -3,7 +3,13 @@ glyphname = periodcentered.loclCAT;
 layers = (
 {
 layerId = m002;
-width = 600;
+shapes = (
+{
+pos = (-50,0);
+ref = periodcentered;
+}
+);
+width = 120;
 }
 );
 }
