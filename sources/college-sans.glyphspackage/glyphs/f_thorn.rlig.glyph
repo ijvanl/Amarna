@@ -30,11 +30,12 @@ shapes = (
 ref = f.lig_ascender;
 },
 {
-pos = (325,0);
+alignment = -1;
+pos = (345,0);
 ref = thorn;
 }
 );
-width = 855;
+width = 875;
 },
 {
 anchors = (

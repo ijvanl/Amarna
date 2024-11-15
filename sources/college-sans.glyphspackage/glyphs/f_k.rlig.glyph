@@ -30,6 +30,7 @@ shapes = (
 ref = f.lig_ascender;
 },
 {
+alignment = -1;
 pos = (325,0);
 ref = k;
 }
@@ -212,4 +213,6 @@ ref = k;
 width = 703;
 }
 );
+metricLeft = "=f.lig_ascender";
+metricRight = "=k";
 }

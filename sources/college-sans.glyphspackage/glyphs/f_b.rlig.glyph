@@ -13,7 +13,7 @@ pos = (650,0);
 },
 {
 name = caret_1;
-pos = (433.5,0);
+pos = (434,0);
 },
 {
 name = top_1;
@@ -27,14 +27,15 @@ pos = (650,750);
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = f.lig_ascender;
 },
 {
-pos = (325,0);
+pos = (335,0);
 ref = b;
 }
 );
-width = 877;
+width = 887;
 },
 {
 anchors = (
@@ -212,4 +213,6 @@ ref = b;
 width = 778;
 }
 );
+metricLeft = "=f.lig_ascender";
+metricRight = "=b";
 }

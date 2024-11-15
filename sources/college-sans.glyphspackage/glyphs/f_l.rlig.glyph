@@ -30,11 +30,12 @@ shapes = (
 ref = f.lig_ascender;
 },
 {
-pos = (325,0);
+alignment = -1;
+pos = (327,0);
 ref = l;
 }
 );
-width = 583;
+width = 585;
 },
 {
 anchors = (
@@ -212,4 +213,6 @@ ref = l;
 width = 446;
 }
 );
+metricLeft = "=f.lig_ascender";
+metricRight = "=l";
 }
