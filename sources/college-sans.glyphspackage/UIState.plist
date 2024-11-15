@@ -2,11 +2,18 @@
 displayStrings = (
 "nnnnnn
 oooooo
-zzzzzz
-nnzznn
-oozzoo
-nzn ozo
+OOOOOO
+nnOOnn
+ooOOoo
+nOn oOo
 ",
-g
+"NNNNNN
+OOOOOO
+ZZZZZZ
+NNZZNN
+OOZZOO
+NZN OZO
+
+Zaza"
 );
 }

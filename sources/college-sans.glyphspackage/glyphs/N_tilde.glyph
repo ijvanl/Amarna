@@ -8,11 +8,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (154,160);
+pos = (169,160);
 ref = tildecomb;
 }
 );
-width = 680;
+width = 710;
 },
 {
 layerId = m003;
