@@ -12,7 +12,7 @@ pos = (198,40);
 ref = caroncomb.alt;
 }
 );
-width = 358;
+width = 363;
 },
 {
 layerId = m003;

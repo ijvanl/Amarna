@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = d;
 layers = (
 {
@@ -130,7 +131,7 @@ nodes = (
 );
 }
 );
-width = 535;
+width = 537;
 },
 {
 anchors = (

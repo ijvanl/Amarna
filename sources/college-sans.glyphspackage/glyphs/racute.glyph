@@ -8,11 +8,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (58,-10);
+pos = (78,-10);
 ref = acutecomb;
 }
 );
-width = 335;
+width = 365;
 },
 {
 layerId = m003;

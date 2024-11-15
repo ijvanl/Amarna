@@ -8,11 +8,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (110,-20);
+pos = (130,-20);
 ref = hungarumlautcomb;
 }
 );
-width = 530;
+width = 560;
 },
 {
 layerId = m003;

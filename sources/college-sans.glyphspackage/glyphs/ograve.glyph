@@ -8,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (97,0);
+pos = (102,0);
 ref = gravecomb;
 }
 );
-width = 554;
+width = 564;
 },
 {
 layerId = m003;
