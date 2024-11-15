@@ -9,6 +9,42 @@ ref = tildecomb;
 }
 );
 width = 452;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 452;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 452;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 452;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = tildecomb;
+}
+);
+width = 452;
 }
 );
 unicode = 732;

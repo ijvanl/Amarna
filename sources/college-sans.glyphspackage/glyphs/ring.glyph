@@ -9,6 +9,42 @@ ref = ringcomb;
 }
 );
 width = 374;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 374;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 374;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 374;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 374;
 }
 );
 unicode = 730;

@@ -13,6 +13,58 @@ ref = acutecomb;
 }
 );
 width = 554;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (142,0);
+ref = acutecomb;
+}
+);
+width = 554;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (152,0);
+ref = acutecomb;
+}
+);
+width = 554;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (152,0);
+ref = acutecomb;
+}
+);
+width = 554;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (137,0);
+ref = acutecomb;
+}
+);
+width = 554;
 }
 );
 unicode = 243;

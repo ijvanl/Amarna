@@ -9,7 +9,96 @@ ref = comma;
 },
 {
 pos = (0,330);
+ref = dot;
+}
+);
+width = 220;
+},
+{
+background = {
+shapes = (
+{
+pos = (-26,0);
+ref = dot;
+},
+{
+alignment = -1;
+pos = (21,330);
+ref = dot;
+}
+);
+};
+layerId = m003;
+shapes = (
+{
+pos = (-20,0);
+ref = comma;
+},
+{
+pos = (20,330);
+ref = dot;
+}
+);
+width = 220;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,330);
 ref = period;
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,330);
+ref = dot;
+}
+);
+width = 220;
+},
+{
+background = {
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,330);
+ref = period;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+pos = (-20,0);
+ref = comma;
+},
+{
+pos = (20,330);
+ref = dot;
+}
+);
+width = 220;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,330);
+ref = dot;
 }
 );
 width = 220;

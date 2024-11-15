@@ -4,6 +4,22 @@ layers = (
 {
 layerId = m002;
 width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+},
+{
+layerId = m006;
+width = 600;
 }
 );
 }

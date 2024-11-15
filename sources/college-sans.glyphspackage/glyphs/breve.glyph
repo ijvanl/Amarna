@@ -9,6 +9,42 @@ ref = brevecomb;
 }
 );
 width = 420;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 420;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 420;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 420;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 420;
 }
 );
 unicode = 728;

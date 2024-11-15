@@ -5,8 +5,69 @@ layers = (
 layerId = m002;
 shapes = (
 {
+alignment = -1;
+pos = (0,202);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,202);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+background = {
+shapes = (
+{
 pos = (0,202);
 ref = period;
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (0,202);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+background = {
+shapes = (
+{
+pos = (0,202);
+ref = period;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (0,202);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+pos = (0,202);
+ref = dot;
 }
 );
 width = 230;

@@ -8,11 +8,63 @@ shapes = (
 ref = y;
 },
 {
+pos = (51,-20);
+ref = dieresiscomb;
+}
+);
+width = 472;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (45,-20);
+ref = dieresiscomb;
+}
+);
+width = 472;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = y;
+},
+{
 pos = (41,0);
 ref = dieresiscomb;
 }
 );
 width = 472;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (41,0);
+ref = dieresiscomb;
+}
+);
+width = 472;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (56,-20);
+ref = dieresiscomb;
+}
+);
+width = 467;
 }
 );
 unicode = 255;

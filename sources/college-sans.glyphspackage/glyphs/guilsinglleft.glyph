@@ -11,6 +11,50 @@ ref = guilsinglright;
 }
 );
 width = 325;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (325,500);
+ref = guilsinglright;
+}
+);
+width = 325;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (325,500);
+ref = guilsinglright;
+}
+);
+width = 325;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (325,500);
+ref = guilsinglright;
+}
+);
+width = 325;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (325,500);
+ref = guilsinglright;
+}
+);
+width = 325;
 }
 );
 unicode = 8249;

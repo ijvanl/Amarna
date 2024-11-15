@@ -5,21 +5,47 @@ layers = (
 layerId = m002;
 shapes = (
 {
-closed = 1;
-nodes = (
-(146,-7,o),
-(170,18,o),
-(170,49,cs),
-(170,79,o),
-(146,103,o),
-(116,103,cs),
-(85,103,o),
-(60,79,o),
-(60,49,cs),
-(60,18,o),
-(85,-7,o),
-(116,-7,cs)
+ref = dot;
+}
 );
+width = 230;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (-38,0);
+ref = dot;
+}
+);
+width = 211;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (-25,0);
+ref = dot;
+}
+);
+width = 232;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = dot;
 }
 );
 width = 230;

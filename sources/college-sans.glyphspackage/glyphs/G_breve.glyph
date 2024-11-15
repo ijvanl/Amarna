@@ -8,7 +8,59 @@ shapes = (
 ref = G;
 },
 {
+pos = (177,200);
+ref = brevecomb;
+}
+);
+width = 693;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (110,200);
+ref = brevecomb;
+}
+);
+width = 693;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = G;
+},
+{
 pos = (137,200);
+ref = brevecomb;
+}
+);
+width = 693;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (165,200);
+ref = brevecomb;
+}
+);
+width = 693;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (177,200);
 ref = brevecomb;
 }
 );

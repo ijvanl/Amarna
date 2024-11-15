@@ -5,11 +5,51 @@ layers = (
 layerId = m002;
 shapes = (
 {
-pos = (-50,100);
+pos = (-120,100);
 ref = periodcentered;
 }
 );
-width = 170;
+width = 70;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
 }
 );
 }

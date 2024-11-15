@@ -13,6 +13,58 @@ ref = dotaccentcomb;
 }
 );
 width = 240;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (4,0);
+ref = dotaccentcomb;
+}
+);
+width = 240;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (20,0);
+ref = dotaccentcomb;
+}
+);
+width = 270;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (20,0);
+ref = dotaccentcomb;
+}
+);
+width = 270;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-20,0);
+ref = dotaccentcomb;
+}
+);
+width = 179;
 }
 );
 }

@@ -8,7 +8,59 @@ shapes = (
 ref = c;
 },
 {
-pos = (76,0);
+pos = (106,-10);
+ref = acutecomb;
+}
+);
+width = 432;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (131,0);
+ref = acutecomb;
+}
+);
+width = 432;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (121,0);
+ref = acutecomb;
+}
+);
+width = 432;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (161,0);
+ref = acutecomb;
+}
+);
+width = 432;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (106,-10);
 ref = acutecomb;
 }
 );

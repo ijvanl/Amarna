@@ -13,6 +13,58 @@ ref = caroncomb.alt;
 }
 );
 width = 358;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (259,40);
+ref = caroncomb.alt;
+}
+);
+width = 358;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (228,40);
+ref = caroncomb.alt;
+}
+);
+width = 358;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (304,40);
+ref = caroncomb.alt;
+}
+);
+width = 358;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (198,40);
+ref = caroncomb.alt;
+}
+);
+width = 358;
 }
 );
 unicode = 357;

@@ -8,11 +8,63 @@ shapes = (
 ref = N;
 },
 {
-pos = (230,0);
+pos = (220,50);
 ref = commaaccentcomb;
 }
 );
 width = 680;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (230,40);
+ref = commaaccentcomb;
+}
+);
+width = 680;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (235,40);
+ref = commaaccentcomb;
+}
+);
+width = 680;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (240,40);
+ref = commaaccentcomb;
+}
+);
+width = 680;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (210,50);
+ref = commaaccentcomb;
+}
+);
+width = 650;
 }
 );
 unicode = 325;

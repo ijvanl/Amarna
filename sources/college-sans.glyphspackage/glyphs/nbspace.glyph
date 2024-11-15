@@ -4,6 +4,22 @@ layers = (
 {
 layerId = m002;
 width = 300;
+},
+{
+layerId = m003;
+width = 300;
+},
+{
+layerId = m004;
+width = 300;
+},
+{
+layerId = m005;
+width = 300;
+},
+{
+layerId = m006;
+width = 300;
 }
 );
 metricWidth = space;
