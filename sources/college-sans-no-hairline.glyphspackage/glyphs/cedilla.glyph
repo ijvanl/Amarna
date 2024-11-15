@@ -1,0 +1,51 @@
+{
+glyphname = cedilla;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = cedillacomb;
+}
+);
+width = 323;
+}
+);
+unicode = 184;
+}

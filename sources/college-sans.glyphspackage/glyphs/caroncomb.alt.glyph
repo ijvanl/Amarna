@@ -138,9 +138,38 @@ shapes = (
 closed = 1;
 nodes = (
 (55,543,l),
-(96,535,l),
-(165,737,l),
+(81,539,l),
+(115,747,l),
 (76,750,l)
+);
+}
+);
+width = 220;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (0,750);
+}
+);
+background = {
+shapes = (
+{
+pos = (-45,0);
+ref = dieresiscomb;
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,549,l),
+(68,541,l),
+(130,742,l),
+(92,751,l)
 );
 }
 );

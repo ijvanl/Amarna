@@ -16,12 +16,13 @@ width = 340;
 layerId = m003;
 shapes = (
 {
-pos = (340,0);
+pos = (251,0);
 ref = slash;
 scale = (-1,1);
+slant = (16,0);
 }
 );
-width = 340;
+width = 335;
 },
 {
 layerId = m004;
@@ -38,23 +39,36 @@ width = 340;
 layerId = m005;
 shapes = (
 {
-pos = (340,0);
+pos = (281,0);
 ref = slash;
 scale = (-1,1);
+slant = (16,0);
 }
 );
-width = 340;
+width = 365;
 },
 {
 layerId = m006;
 shapes = (
 {
-pos = (340,0);
+pos = (300,0);
 ref = slash;
 scale = (-1,1);
 }
 );
-width = 340;
+width = 300;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (212,0);
+ref = slash;
+scale = (-1,1);
+slant = (16,0);
+}
+);
+width = 296;
 }
 );
 unicode = 92;

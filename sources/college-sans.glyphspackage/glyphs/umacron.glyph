@@ -65,6 +65,19 @@ ref = macroncomb;
 }
 );
 width = 495;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (52,-20);
+ref = macroncomb;
+}
+);
+width = 495;
 }
 );
 unicode = 363;

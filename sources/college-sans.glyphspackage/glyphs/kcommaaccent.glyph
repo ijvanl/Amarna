@@ -65,6 +65,19 @@ ref = commaaccentcomb;
 }
 );
 width = 430;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (52,10);
+ref = commaaccentcomb;
+}
+);
+width = 430;
 }
 );
 unicode = 311;

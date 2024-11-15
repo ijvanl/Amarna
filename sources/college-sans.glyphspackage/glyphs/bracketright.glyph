@@ -17,33 +17,33 @@ layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (265,660);
+pos = (288,660);
 ref = bracketleft;
 }
 );
-width = 265;
+width = 266;
 },
 {
 layerId = m004;
 shapes = (
 {
 angle = 180;
-pos = (265,660);
+pos = (295,660);
 ref = bracketleft;
 }
 );
-width = 265;
+width = 295;
 },
 {
 layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (265,660);
+pos = (318,660);
 ref = bracketleft;
 }
 );
-width = 265;
+width = 295;
 },
 {
 layerId = m006;
@@ -51,6 +51,17 @@ shapes = (
 {
 angle = 180;
 pos = (265,660);
+ref = bracketleft;
+}
+);
+width = 265;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (287,660);
 ref = bracketleft;
 }
 );

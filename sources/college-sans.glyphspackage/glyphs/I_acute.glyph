@@ -60,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-30,200);
+pos = (-55,200);
+ref = acutecomb;
+}
+);
+width = 170;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-27,200);
 ref = acutecomb;
 }
 );

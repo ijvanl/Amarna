@@ -71,6 +71,17 @@ ref = dot;
 }
 );
 width = 230;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (0,202);
+ref = dot;
+}
+);
+width = 230;
 }
 );
 unicode = 183;

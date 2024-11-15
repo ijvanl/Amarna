@@ -65,6 +65,19 @@ ref = ringcomb;
 }
 );
 width = 495;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (65,-20);
+ref = ringcomb;
+}
+);
+width = 495;
 }
 );
 unicode = 367;

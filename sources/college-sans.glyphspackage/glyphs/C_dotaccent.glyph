@@ -65,6 +65,19 @@ ref = dotaccentcomb;
 }
 );
 width = 683;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (295,200);
+ref = dotaccentcomb;
+}
+);
+width = 683;
 }
 );
 unicode = 266;

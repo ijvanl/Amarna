@@ -55,6 +55,17 @@ ref = question;
 }
 );
 width = 427;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (427,500);
+ref = question;
+}
+);
+width = 427;
 }
 );
 unicode = 191;

@@ -41,35 +41,35 @@ layerId = m003;
 shapes = (
 {
 alignment = -1;
-pos = (18,120);
+pos = (83,120);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -72;
-pos = (-378,575);
+pos = (-313,575);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -144;
-pos = (-68,1092);
+pos = (-3,1092);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 144;
-pos = (520,957);
+pos = (585,957);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 72;
-pos = (573,356);
+pos = (638,356);
 ref = "asterisk-spike";
 }
 );
-width = 267;
+width = 322;
 },
 {
 layerId = m004;
@@ -111,70 +111,105 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-pos = (18,120);
+pos = (83,120);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -72;
-pos = (-378,575);
+pos = (-313,575);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -144;
-pos = (-68,1092);
+pos = (-3,1092);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 144;
-pos = (520,957);
+pos = (585,957);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 72;
-pos = (573,356);
+pos = (638,356);
 ref = "asterisk-spike";
 }
 );
-width = 267;
+width = 322;
 },
 {
 layerId = m006;
 shapes = (
 {
 alignment = -1;
-pos = (18,120);
+pos = (14,120);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -72;
-pos = (-378,575);
+pos = (-382,575);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = -144;
-pos = (-68,1092);
+pos = (-72,1092);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 144;
-pos = (520,957);
+pos = (516,957);
 ref = "asterisk-spike";
 },
 {
 alignment = -1;
 angle = 72;
-pos = (573,356);
+pos = (569,356);
 ref = "asterisk-spike";
 }
 );
-width = 267;
+width = 258;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (78,120);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = -72;
+pos = (-318,575);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = -144;
+pos = (-8,1092);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = 144;
+pos = (580,957);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = 72;
+pos = (633,356);
+ref = "asterisk-spike";
+}
+);
+width = 311;
 }
 );
 unicode = 42;

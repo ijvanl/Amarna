@@ -8,7 +8,7 @@ shapes = (
 ref = L;
 }
 );
-width = 540;
+width = 570;
 },
 {
 layerId = m003;
@@ -39,6 +39,15 @@ width = 540;
 },
 {
 layerId = m006;
+shapes = (
+{
+ref = L;
+}
+);
+width = 570;
+},
+{
+layerId = m007;
 shapes = (
 {
 ref = L;

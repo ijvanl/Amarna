@@ -12,7 +12,7 @@ pos = (176,-50);
 ref = caroncomb.alt;
 }
 );
-width = 540;
+width = 570;
 },
 {
 layerId = m003;
@@ -61,6 +61,19 @@ ref = L;
 },
 {
 pos = (176,-50);
+ref = caroncomb.alt;
+}
+);
+width = 570;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (225,-50);
 ref = caroncomb.alt;
 }
 );

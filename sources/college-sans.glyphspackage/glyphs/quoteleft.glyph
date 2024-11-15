@@ -54,7 +54,18 @@ pos = (230,599);
 ref = quotesinglbase;
 }
 );
-width = 230;
+width = 210;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (230,599);
+ref = quotesinglbase;
+}
+);
+width = 210;
 }
 );
 unicode = 8216;

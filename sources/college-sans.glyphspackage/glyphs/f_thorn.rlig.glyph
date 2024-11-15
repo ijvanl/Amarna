@@ -69,7 +69,7 @@ pos = (325,0);
 ref = thorn;
 }
 );
-width = 853;
+width = 855;
 },
 {
 anchors = (
@@ -166,6 +166,41 @@ pos = (641,750);
 }
 );
 layerId = m006;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (273,0);
+ref = thorn;
+}
+);
+width = 777;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m007;
 shapes = (
 {
 ref = f.lig_ascender;

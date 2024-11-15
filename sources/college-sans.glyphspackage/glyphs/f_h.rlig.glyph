@@ -175,6 +175,41 @@ ref = h;
 }
 );
 width = 765;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m007;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (273,0);
+ref = h;
+}
+);
+width = 765;
 }
 );
 }

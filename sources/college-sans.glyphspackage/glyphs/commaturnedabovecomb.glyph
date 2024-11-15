@@ -105,6 +105,27 @@ ref = comma;
 }
 );
 width = 240;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (141,500);
+},
+{
+name = top;
+pos = (188,831);
+}
+);
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (245,690);
+ref = comma;
+}
+);
+width = 240;
 }
 );
 unicode = 786;

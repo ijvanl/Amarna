@@ -60,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-85,200);
+pos = (-110,200);
+ref = dieresiscomb;
+}
+);
+width = 170;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-82,200);
 ref = dieresiscomb;
 }
 );

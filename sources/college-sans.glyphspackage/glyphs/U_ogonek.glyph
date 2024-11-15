@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (432,10);
+pos = (220,0);
 ref = ogonekcomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (398,10);
+pos = (182,1);
 ref = ogonekcomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (398,10);
+pos = (186,6);
 ref = ogonekcomb;
 }
 );
@@ -60,7 +60,20 @@ shapes = (
 ref = U;
 },
 {
-pos = (432,10);
+pos = (224,0);
+ref = ogonekcomb;
+}
+);
+width = 697;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (175,0);
 ref = ogonekcomb;
 }
 );

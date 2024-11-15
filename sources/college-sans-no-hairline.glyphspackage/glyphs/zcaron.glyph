@@ -1,0 +1,71 @@
+{
+glyphname = zcaron;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (55,-10);
+ref = caroncomb;
+}
+);
+width = 470;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (54,-10);
+ref = caroncomb;
+}
+);
+width = 470;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (65,0);
+ref = caroncomb;
+}
+);
+width = 470;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (65,0);
+ref = caroncomb;
+}
+);
+width = 470;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (55,-10);
+ref = caroncomb;
+}
+);
+width = 470;
+}
+);
+unicode = 382;
+}

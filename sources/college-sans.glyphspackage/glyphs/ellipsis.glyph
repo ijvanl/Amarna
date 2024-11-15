@@ -127,6 +127,25 @@ ref = dot;
 }
 );
 width = 830;
+},
+{
+layerId = m007;
+shapes = (
+{
+alignment = -1;
+pos = (40,0);
+ref = dot;
+},
+{
+pos = (300,0);
+ref = dot;
+},
+{
+pos = (560,0);
+ref = dot;
+}
+);
+width = 830;
 }
 );
 unicode = 8230;

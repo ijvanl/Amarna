@@ -60,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-80,200);
+pos = (-105,200);
+ref = circumflexcomb;
+}
+);
+width = 170;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-77,200);
 ref = circumflexcomb;
 }
 );

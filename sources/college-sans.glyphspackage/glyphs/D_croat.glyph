@@ -45,6 +45,15 @@ ref = Eth;
 }
 );
 width = 755;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 755;
 }
 );
 unicode = 272;

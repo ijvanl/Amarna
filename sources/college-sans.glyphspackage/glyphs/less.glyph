@@ -55,6 +55,17 @@ ref = greater;
 }
 );
 width = 600;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (600,500);
+ref = greater;
+}
+);
+width = 600;
 }
 );
 unicode = 60;

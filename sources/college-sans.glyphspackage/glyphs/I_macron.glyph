@@ -60,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-90,200);
+pos = (-115,200);
+ref = macroncomb;
+}
+);
+width = 170;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-87,200);
 ref = macroncomb;
 }
 );

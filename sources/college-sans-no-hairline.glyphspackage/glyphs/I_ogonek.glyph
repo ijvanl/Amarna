@@ -1,0 +1,71 @@
+{
+glyphname = Iogonek;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-40,0);
+ref = ogonekcomb;
+}
+);
+width = 220;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-75,0);
+ref = ogonekcomb;
+}
+);
+width = 220;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (10,0);
+ref = ogonekcomb;
+}
+);
+width = 270;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-25,0);
+ref = ogonekcomb;
+}
+);
+width = 270;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-91,0);
+ref = ogonekcomb;
+}
+);
+width = 170;
+}
+);
+unicode = 302;
+}

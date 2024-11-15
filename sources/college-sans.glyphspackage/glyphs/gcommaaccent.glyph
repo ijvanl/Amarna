@@ -65,6 +65,19 @@ ref = commaturnedabovecomb;
 }
 );
 width = 484;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (157,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 484;
 }
 );
 unicode = 291;

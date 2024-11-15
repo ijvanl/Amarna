@@ -135,6 +135,57 @@ GSOffsetVertical = 10;
 },
 {
 axesValues = (
+100,
+1
+);
+guides = (
+{
+angle = 113.6725;
+pos = (462,-160);
+}
+);
+iconName = Light_Extended;
+id = m007;
+metricValues = (
+{
+over = 20;
+pos = 750;
+},
+{
+over = 20;
+pos = 700;
+},
+{
+over = 20;
+pos = 500;
+},
+{
+over = -20;
+},
+{
+over = -20;
+pos = -300;
+},
+{
+pos = 8;
+}
+);
+name = "Hairline Italic";
+stemValues = (
+80,
+60,
+65,
+80
+);
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetMakeStroke = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
 400,
 0
 );
@@ -235,7 +286,7 @@ GSOffsetVertical = 10;
 },
 {
 axesValues = (
-700,
+800,
 0
 );
 guides = (
@@ -269,7 +320,7 @@ pos = -300;
 {
 }
 );
-name = Bold;
+name = Heavy;
 stemValues = (
 80,
 60,
@@ -283,7 +334,7 @@ GSOffsetVertical = 15;
 },
 {
 axesValues = (
-700,
+800,
 1
 );
 guides = (
@@ -318,7 +369,7 @@ pos = -300;
 pos = 8;
 }
 );
-name = "Bold Italic";
+name = "Heavy Italic";
 stemValues = (
 80,
 60,
@@ -346,11 +397,10 @@ weightClass = 100;
 {
 axesValues = (
 100,
-0
+1
 );
-exports = 0;
 instanceInterpolations = {
-m006 = 1;
+m007 = 1;
 };
 isItalic = 1;
 linkStyle = Hairline;
@@ -372,12 +422,11 @@ weightClass = 200;
 {
 axesValues = (
 200,
-0
+1
 );
-exports = 0;
 instanceInterpolations = {
-m002 = 0.33333;
-m006 = 0.66667;
+m003 = 0.33333;
+m007 = 0.66667;
 };
 isItalic = 1;
 linkStyle = Thin;
@@ -399,12 +448,11 @@ weightClass = 300;
 {
 axesValues = (
 300,
-0
+1
 );
-exports = 0;
 instanceInterpolations = {
-m002 = 0.66667;
-m006 = 0.33333;
+m003 = 0.66667;
+m007 = 0.33333;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -439,8 +487,8 @@ axesValues = (
 0
 );
 instanceInterpolations = {
-m002 = 0.66667;
-m004 = 0.33333;
+m002 = 0.75;
+m004 = 0.25;
 };
 name = Medium;
 weightClass = 500;
@@ -451,8 +499,8 @@ axesValues = (
 1
 );
 instanceInterpolations = {
-m003 = 0.66667;
-m005 = 0.33333;
+m003 = 0.75;
+m005 = 0.25;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -474,8 +522,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m002 = 0.33333;
-m004 = 0.66667;
+m002 = 0.5;
+m004 = 0.5;
 };
 name = Semibold;
 weightClass = 600;
@@ -495,8 +543,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m003 = 0.33333;
-m005 = 0.66667;
+m003 = 0.5;
+m005 = 0.5;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -518,7 +566,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m004 = 1;
+m002 = 0.25;
+m004 = 0.75;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -540,7 +589,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m005 = 1;
+m003 = 0.25;
+m005 = 0.75;
 };
 isBold = 1;
 isItalic = 1;

@@ -60,7 +60,20 @@ shapes = (
 ref = A;
 },
 {
-pos = (421,0);
+pos = (431,0);
+ref = ogonekcomb;
+}
+);
+width = 626;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (382,0);
 ref = ogonekcomb;
 }
 );

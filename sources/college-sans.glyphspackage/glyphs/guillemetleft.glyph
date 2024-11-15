@@ -65,6 +65,19 @@ ref = guilsinglleft;
 }
 );
 width = 545;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = guilsinglleft;
+},
+{
+pos = (220,0);
+ref = guilsinglleft;
+}
+);
+width = 545;
 }
 );
 unicode = 171;

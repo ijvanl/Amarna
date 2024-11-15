@@ -65,6 +65,19 @@ ref = dotaccentcomb;
 }
 );
 width = 179;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-6,0);
+ref = dotaccentcomb;
+}
+);
+width = 179;
 }
 );
 }

@@ -1,0 +1,183 @@
+{
+glyphname = f_thorn.rlig;
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (325,0);
+ref = thorn;
+}
+);
+width = 855;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (325,0);
+ref = thorn;
+}
+);
+width = 855;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m004;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (325,0);
+ref = thorn;
+}
+);
+width = 865;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+alignment = -1;
+pos = (305,0);
+ref = thorn;
+}
+);
+width = 845;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m006;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+pos = (273,0);
+ref = thorn;
+}
+);
+width = 777;
+}
+);
+metricLeft = "=f.lig_ascender";
+metricRight = "=thorn";
+}

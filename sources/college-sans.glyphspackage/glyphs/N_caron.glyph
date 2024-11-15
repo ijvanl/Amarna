@@ -60,7 +60,20 @@ shapes = (
 ref = N;
 },
 {
-pos = (180,160);
+pos = (150,160);
+ref = caroncomb;
+}
+);
+width = 650;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (173,160);
 ref = caroncomb;
 }
 );

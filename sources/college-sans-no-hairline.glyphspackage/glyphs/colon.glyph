@@ -1,0 +1,100 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m002;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (0,330);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (47,330);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+background = {
+shapes = (
+{
+ref = dot;
+},
+{
+pos = (0,330);
+ref = period;
+}
+);
+};
+layerId = m004;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (0,330);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+background = {
+shapes = (
+{
+ref = dot;
+},
+{
+pos = (0,330);
+ref = period;
+}
+);
+};
+layerId = m005;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (0,330);
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (0,330);
+ref = dot;
+}
+);
+width = 230;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+unicode = 58;
+}

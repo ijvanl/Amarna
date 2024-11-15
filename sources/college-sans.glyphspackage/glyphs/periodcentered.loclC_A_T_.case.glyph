@@ -50,6 +50,16 @@ ref = periodcentered;
 }
 );
 width = 70;
+},
+{
+layerId = m007;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
 }
 );
 }

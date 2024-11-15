@@ -277,15 +277,15 @@ width = 270;
 anchors = (
 {
 name = bottom;
-pos = (110,0);
+pos = (85,0);
 },
 {
 name = ogonek;
-pos = (155,0);
+pos = (104,0);
 },
 {
 name = top;
-pos = (110,700);
+pos = (85,700);
 },
 {
 name = topleft;
@@ -303,6 +303,41 @@ nodes = (
 (101,250,l),
 (103,700,l),
 (66,700,l)
+);
+}
+);
+width = 170;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (36,0);
+},
+{
+name = ogonek;
+pos = (55,0);
+},
+{
+name = top;
+pos = (134,700);
+},
+{
+name = topleft;
+pos = (69,700);
+}
+);
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,500,l),
+(18,0,l),
+(55,0,l),
+(87,250,l),
+(152,700,l),
+(115,700,l)
 );
 }
 );

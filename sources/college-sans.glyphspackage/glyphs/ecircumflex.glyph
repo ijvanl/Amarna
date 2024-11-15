@@ -65,6 +65,19 @@ ref = circumflexcomb;
 }
 );
 width = 464;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (67,0);
+ref = circumflexcomb;
+}
+);
+width = 464;
 }
 );
 unicode = 234;

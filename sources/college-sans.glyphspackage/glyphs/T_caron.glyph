@@ -8,11 +8,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (100,200);
+pos = (120,200);
 ref = caroncomb;
 }
 );
-width = 580;
+width = 620;
 },
 {
 layerId = m003;
@@ -61,6 +61,19 @@ ref = T;
 },
 {
 pos = (100,200);
+ref = caroncomb;
+}
+);
+width = 580;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (128,200);
 ref = caroncomb;
 }
 );

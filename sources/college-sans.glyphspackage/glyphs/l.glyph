@@ -340,6 +340,74 @@ nodes = (
 }
 );
 width = 173;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (44,0);
+},
+{
+name = center;
+pos = (85,375);
+},
+{
+name = top;
+pos = (137,750);
+},
+{
+name = topright;
+pos = (199,750);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (81,0);
+},
+{
+name = center;
+pos = (81,375);
+},
+{
+name = top;
+pos = (81,750);
+},
+{
+name = topright;
+pos = (143,750);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,550,l),
+(45,0,l),
+(128,0,l),
+(123,250,l),
+(123,760,l),
+(35,740,l)
+);
+}
+);
+};
+layerId = m007;
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,550,l),
+(21,0,l),
+(59,0,l),
+(89,250,l),
+(161,760,l),
+(121,750,l)
+);
+}
+);
+width = 173;
 }
 );
 unicode = 108;

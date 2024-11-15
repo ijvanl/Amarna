@@ -50,11 +50,22 @@ layerId = m006;
 shapes = (
 {
 angle = 180;
-pos = (325,500);
+pos = (310,500);
 ref = guilsinglright;
 }
 );
-width = 325;
+width = 310;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (310,500);
+ref = guilsinglright;
+}
+);
+width = 310;
 }
 );
 unicode = 8249;

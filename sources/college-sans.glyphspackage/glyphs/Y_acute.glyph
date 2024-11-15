@@ -8,7 +8,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (158,200);
+pos = (158,150);
 ref = acutecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (191,200);
+pos = (181,150);
 ref = acutecomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (201,200);
+pos = (201,190);
 ref = acutecomb;
 }
 );
@@ -60,7 +60,20 @@ shapes = (
 ref = Y;
 },
 {
-pos = (148,200);
+pos = (148,150);
+ref = acutecomb;
+}
+);
+width = 586;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (167,150);
 ref = acutecomb;
 }
 );

@@ -102,6 +102,19 @@ ref = dot;
 }
 );
 width = 220;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (0,330);
+ref = dot;
+}
+);
+width = 220;
 }
 );
 unicode = 59;

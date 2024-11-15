@@ -17,7 +17,7 @@ layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (300,660);
+pos = (323,660);
 ref = parenleft;
 }
 );
@@ -39,11 +39,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (360,660);
+pos = (383,660);
 ref = parenleft;
 }
 );
-width = 360;
+width = 361;
 },
 {
 layerId = m006;
@@ -55,6 +55,17 @@ ref = parenleft;
 }
 );
 width = 300;
+},
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (322,660);
+ref = parenleft;
+}
+);
+width = 299;
 }
 );
 metricLeft = "=|parenleft";
