@@ -78,6 +78,19 @@ ref = guilsinglright;
 }
 );
 width = 545;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (220,0);
+ref = guilsinglright;
+}
+);
+width = 545;
 }
 );
 unicode = 187;

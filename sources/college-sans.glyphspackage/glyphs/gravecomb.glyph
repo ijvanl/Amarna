@@ -169,6 +169,34 @@ scale = (-1,1);
 }
 );
 width = 320;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (180,500);
+},
+{
+name = top;
+pos = (180,750);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
+layerId = m008;
+shapes = (
+{
+pos = (320,0);
+ref = acutecomb;
+scale = (-1,1);
+}
+);
+width = 320;
 }
 );
 unicode = 768;

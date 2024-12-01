@@ -144,6 +144,30 @@ ref = e;
 }
 );
 width = 895;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (428,0);
+},
+{
+name = top;
+pos = (428,500);
+}
+);
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (381,0);
+ref = e;
+}
+);
+width = 855;
 }
 );
 metricLeft = "=o";

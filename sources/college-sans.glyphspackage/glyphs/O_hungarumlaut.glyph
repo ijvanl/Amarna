@@ -78,6 +78,19 @@ ref = hungarumlautcomb;
 }
 );
 width = 795;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (248,200);
+ref = hungarumlautcomb;
+}
+);
+width = 805;
 }
 );
 unicode = 336;

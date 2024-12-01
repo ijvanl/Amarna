@@ -78,6 +78,19 @@ ref = quotesinglbase;
 }
 );
 width = 350;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (160,0);
+ref = quotesinglbase;
+},
+{
+ref = quotesinglbase;
+}
+);
+width = 390;
 }
 );
 metricRight = "=quotesinglbase";

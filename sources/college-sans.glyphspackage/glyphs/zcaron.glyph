@@ -78,6 +78,19 @@ ref = caroncomb;
 }
 );
 width = 470;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (75,-10);
+ref = caroncomb;
+}
+);
+width = 500;
 }
 );
 unicode = 382;

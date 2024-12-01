@@ -54,6 +54,15 @@ ref = L;
 }
 );
 width = 540;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = L;
+}
+);
+width = 590;
 }
 );
 unicode = 321;

@@ -66,6 +66,17 @@ ref = exclam;
 }
 );
 width = 230;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (230,500);
+ref = exclam;
+}
+);
+width = 230;
 }
 );
 unicode = 161;

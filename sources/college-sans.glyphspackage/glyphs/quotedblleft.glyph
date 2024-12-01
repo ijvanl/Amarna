@@ -66,6 +66,17 @@ ref = quotedblbase;
 }
 );
 width = 330;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (390,599);
+ref = quotedblbase;
+}
+);
+width = 390;
 }
 );
 unicode = 8220;

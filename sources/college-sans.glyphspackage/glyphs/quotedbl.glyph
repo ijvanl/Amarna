@@ -78,6 +78,19 @@ ref = quotesingle;
 }
 );
 width = 320;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (130,0);
+ref = quotesingle;
+}
+);
+width = 320;
 }
 );
 unicode = 34;

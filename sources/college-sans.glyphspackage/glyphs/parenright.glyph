@@ -66,6 +66,17 @@ ref = parenleft;
 }
 );
 width = 299;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (300,660);
+ref = parenleft;
+}
+);
+width = 300;
 }
 );
 metricLeft = "=|parenleft";

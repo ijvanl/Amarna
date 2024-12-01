@@ -175,7 +175,7 @@ pos = (273,0);
 ref = b;
 }
 );
-width = 778;
+width = 788;
 },
 {
 anchors = (
@@ -211,6 +211,42 @@ ref = b;
 }
 );
 width = 778;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (217,0);
+},
+{
+name = bottom_2;
+pos = (650,0);
+},
+{
+name = caret_1;
+pos = (434,0);
+},
+{
+name = top_1;
+pos = (217,750);
+},
+{
+name = top_2;
+pos = (650,750);
+}
+);
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+ref = f.lig_ascender;
+},
+{
+pos = (335,0);
+ref = b;
+}
+);
+width = 887;
 }
 );
 metricLeft = "=f.lig_ascender";

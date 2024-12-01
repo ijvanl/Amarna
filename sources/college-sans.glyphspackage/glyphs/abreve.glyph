@@ -64,7 +64,7 @@ pos = (42,0);
 ref = brevecomb;
 }
 );
-width = 483;
+width = 505;
 },
 {
 layerId = m007;
@@ -78,6 +78,19 @@ ref = brevecomb;
 }
 );
 width = 483;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (52,0);
+ref = brevecomb;
+}
+);
+width = 503;
 }
 );
 unicode = 259;

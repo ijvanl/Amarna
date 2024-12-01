@@ -78,6 +78,19 @@ ref = gravecomb;
 }
 );
 width = 795;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (223,200);
+ref = gravecomb;
+}
+);
+width = 805;
 }
 );
 unicode = 210;

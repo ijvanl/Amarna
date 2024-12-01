@@ -1,26 +1,11 @@
 {
 displayStrings = (
-"nnnnnn
-oooooo
-OOOOOO
-nnOOnn
-ooOOoo
-nOn oOo
-",
-"",
-"Þ",
-"ẞ",
-"",
-"ı",
-"ł",
-"/f.lig_ascender l",
-"/f_l.rlig",
-"/f_thorn.rlig",
-"/f.lig_ascender",
-"/f_b.rlig",
-"/f_h.rlig",
-"/f_k.rlig",
-"Ħ",
-g
+d,
+p,
+b,
+q,
+gdamno,
+"1234567890",
+cd
 );
 }

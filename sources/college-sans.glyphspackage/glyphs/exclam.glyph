@@ -5,19 +5,20 @@ layers = (
 layerId = m002;
 shapes = (
 {
+pos = (30,0);
 ref = dot;
 },
 {
 closed = 1;
 nodes = (
-(85,200,l),
-(145,200,l),
-(165,700,l),
-(65,700,l)
+(115,200,l),
+(175,200,l),
+(195,700,l),
+(95,700,l)
 );
 }
 );
-width = 230;
+width = 290;
 },
 {
 layerId = m003;
@@ -112,6 +113,24 @@ nodes = (
 }
 );
 width = 170;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = dot;
+},
+{
+closed = 1;
+nodes = (
+(85,200,l),
+(145,200,l),
+(165,700,l),
+(65,700,l)
+);
+}
+);
+width = 230;
 }
 );
 unicode = 33;

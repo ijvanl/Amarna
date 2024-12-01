@@ -78,6 +78,19 @@ ref = dotaccentcomb;
 }
 );
 width = 179;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (15,0);
+ref = dotaccentcomb;
+}
+);
+width = 265;
 }
 );
 }

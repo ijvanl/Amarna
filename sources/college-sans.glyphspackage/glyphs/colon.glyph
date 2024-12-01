@@ -113,6 +113,20 @@ ref = dot;
 }
 );
 width = 151;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = dot;
+},
+{
+alignment = -1;
+pos = (0,330);
+ref = dot;
+}
+);
+width = 230;
 }
 );
 metricLeft = "=period";

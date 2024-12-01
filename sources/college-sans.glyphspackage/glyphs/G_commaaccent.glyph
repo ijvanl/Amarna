@@ -78,6 +78,19 @@ ref = commaaccentcomb;
 }
 );
 width = 693;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (282,0);
+ref = commaaccentcomb;
+}
+);
+width = 713;
 }
 );
 unicode = 290;

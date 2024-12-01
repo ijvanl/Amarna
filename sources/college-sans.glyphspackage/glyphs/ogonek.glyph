@@ -54,6 +54,15 @@ ref = ogonekcomb;
 }
 );
 width = 600;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = ogonekcomb;
+}
+);
+width = 600;
 }
 );
 unicode = 731;

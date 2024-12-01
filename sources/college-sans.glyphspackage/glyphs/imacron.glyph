@@ -78,6 +78,19 @@ ref = macroncomb;
 }
 );
 width = 179;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-70,0);
+ref = macroncomb;
+}
+);
+width = 265;
 }
 );
 unicode = 299;

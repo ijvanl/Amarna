@@ -78,6 +78,19 @@ ref = dotaccentcomb;
 }
 );
 width = 560;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (210,200);
+ref = dotaccentcomb;
+}
+);
+width = 595;
 }
 );
 unicode = 278;

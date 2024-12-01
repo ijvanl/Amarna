@@ -90,6 +90,18 @@ scale = (2,2);
 }
 );
 width = 420;
+},
+{
+layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (-20,155);
+ref = dot;
+scale = (2,2);
+}
+);
+width = 420;
 }
 );
 unicode = 8226;

@@ -60,11 +60,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (62,0);
+pos = (85,0);
 ref = dieresiscomb;
 }
 );
-width = 464;
+width = 507;
 },
 {
 layerId = m007;
@@ -78,6 +78,19 @@ ref = dieresiscomb;
 }
 );
 width = 464;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (82,0);
+ref = dieresiscomb;
+}
+);
+width = 514;
 }
 );
 unicode = 235;

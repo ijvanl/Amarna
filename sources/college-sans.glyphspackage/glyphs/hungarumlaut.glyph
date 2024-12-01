@@ -54,6 +54,15 @@ ref = hungarumlautcomb;
 }
 );
 width = 400;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = hungarumlautcomb;
+}
+);
+width = 400;
 }
 );
 unicode = 733;

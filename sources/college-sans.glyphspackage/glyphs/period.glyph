@@ -60,6 +60,15 @@ ref = dot;
 }
 );
 width = 151;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = dot;
+}
+);
+width = 230;
 }
 );
 unicode = 46;

@@ -60,6 +60,16 @@ ref = quotedblbase;
 }
 );
 width = 330;
+},
+{
+layerId = m008;
+shapes = (
+{
+pos = (0,641);
+ref = quotedblbase;
+}
+);
+width = 390;
 }
 );
 unicode = 8221;

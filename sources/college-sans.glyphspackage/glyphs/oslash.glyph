@@ -108,6 +108,24 @@ nodes = (
 }
 );
 width = 554;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = o;
+},
+{
+closed = 1;
+nodes = (
+(25,-18,l),
+(72,-52,l),
+(530,518,l),
+(483,552,l)
+);
+}
+);
+width = 554;
 }
 );
 unicode = 248;

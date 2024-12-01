@@ -286,6 +286,56 @@ GSOffsetVertical = 10;
 },
 {
 axesValues = (
+700,
+0
+);
+guides = (
+{
+angle = 113.6725;
+pos = (462,-160);
+}
+);
+iconName = SemiBold;
+id = m008;
+metricValues = (
+{
+over = 20;
+pos = 750;
+},
+{
+over = 20;
+pos = 700;
+},
+{
+over = 20;
+pos = 500;
+},
+{
+over = -20;
+},
+{
+over = -20;
+pos = -300;
+},
+{
+}
+);
+name = Bold;
+stemValues = (
+80,
+60,
+65,
+80
+);
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetMakeStroke = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
 800,
 0
 );
@@ -487,8 +537,8 @@ axesValues = (
 0
 );
 instanceInterpolations = {
-m002 = 0.75;
-m004 = 0.25;
+m002 = 0.66667;
+m008 = 0.33333;
 };
 name = Medium;
 weightClass = 500;
@@ -522,8 +572,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m002 = 0.5;
-m004 = 0.5;
+m002 = 0.33333;
+m008 = 0.66667;
 };
 name = Semibold;
 weightClass = 600;
@@ -566,8 +616,7 @@ value = (
 }
 );
 instanceInterpolations = {
-m002 = 0.25;
-m004 = 0.75;
+m008 = 1;
 };
 isBold = 1;
 linkStyle = Regular;

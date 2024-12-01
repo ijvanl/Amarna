@@ -60,11 +60,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (180,0);
+pos = (200,0);
 ref = commaaccentcomb;
 }
 );
-width = 580;
+width = 620;
 },
 {
 layerId = m007;
@@ -78,6 +78,19 @@ ref = commaaccentcomb;
 }
 );
 width = 580;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (210,0);
+ref = commaaccentcomb;
+}
+);
+width = 660;
 }
 );
 unicode = 538;

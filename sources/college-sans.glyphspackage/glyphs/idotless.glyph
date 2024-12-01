@@ -186,6 +186,37 @@ nodes = (
 }
 );
 width = 179;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (120,0);
+},
+{
+name = ogonek;
+pos = (180,0);
+},
+{
+name = top;
+pos = (130,500);
+}
+);
+layerId = m008;
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,250,l),
+(95,0,l),
+(190,0,l),
+(175,250,l),
+(175,510,l),
+(85,490,l)
+);
+}
+);
+width = 265;
 }
 );
 metricWidth = "=i";

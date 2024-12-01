@@ -66,6 +66,17 @@ ref = guilsinglright;
 }
 );
 width = 310;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (325,500);
+ref = guilsinglright;
+}
+);
+width = 325;
 }
 );
 unicode = 8249;

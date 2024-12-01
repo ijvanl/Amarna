@@ -60,11 +60,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (67,0);
+pos = (90,0);
 ref = circumflexcomb;
 }
 );
-width = 464;
+width = 507;
 },
 {
 layerId = m007;
@@ -78,6 +78,19 @@ ref = circumflexcomb;
 }
 );
 width = 464;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (87,0);
+ref = circumflexcomb;
+}
+);
+width = 514;
 }
 );
 unicode = 234;

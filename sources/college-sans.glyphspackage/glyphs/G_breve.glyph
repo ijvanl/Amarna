@@ -78,6 +78,19 @@ ref = brevecomb;
 }
 );
 width = 693;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (192,200);
+ref = brevecomb;
+}
+);
+width = 713;
 }
 );
 unicode = 286;

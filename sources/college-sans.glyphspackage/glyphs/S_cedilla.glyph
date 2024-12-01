@@ -78,6 +78,19 @@ ref = cedillacomb;
 }
 );
 width = 581;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (81,0);
+ref = cedillacomb;
+}
+);
+width = 581;
 }
 );
 unicode = 350;
