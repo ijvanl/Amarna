@@ -24,28 +24,6 @@ ref = braceleft;
 width = 345;
 },
 {
-layerId = m004;
-shapes = (
-{
-angle = 180;
-pos = (345,660);
-ref = braceleft;
-}
-);
-width = 345;
-},
-{
-layerId = m005;
-shapes = (
-{
-angle = 180;
-pos = (368,660);
-ref = braceleft;
-}
-);
-width = 346;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -77,6 +55,17 @@ ref = braceleft;
 }
 );
 width = 345;
+},
+{
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (368,660);
+ref = braceleft;
+}
+);
+width = 346;
 }
 );
 metricLeft = "=|braceleft";

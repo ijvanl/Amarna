@@ -52,46 +52,6 @@ name = bottom;
 pos = (110,-331);
 }
 );
-layerId = m004;
-shapes = (
-{
-pos = (0,-190);
-ref = comma;
-}
-);
-width = 230;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (75,0);
-},
-{
-name = bottom;
-pos = (28,-331);
-}
-);
-layerId = m005;
-shapes = (
-{
-pos = (-50,-190);
-ref = comma;
-}
-);
-width = 230;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (110,0);
-},
-{
-name = bottom;
-pos = (110,-331);
-}
-);
 layerId = m006;
 shapes = (
 {
@@ -136,6 +96,26 @@ layerId = m008;
 shapes = (
 {
 pos = (0,-190);
+ref = comma;
+}
+);
+width = 230;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (75,0);
+},
+{
+name = bottom;
+pos = (28,-331);
+}
+);
+layerId = m009;
+shapes = (
+{
+pos = (-30,-190);
 ref = comma;
 }
 );

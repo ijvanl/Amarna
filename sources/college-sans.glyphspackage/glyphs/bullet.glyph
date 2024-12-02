@@ -26,48 +26,6 @@ scale = (2,2);
 width = 420;
 },
 {
-background = {
-shapes = (
-{
-pos = (-20,154);
-ref = period;
-scale = (2,2);
-}
-);
-};
-layerId = m004;
-shapes = (
-{
-alignment = -1;
-pos = (-20,155);
-ref = dot;
-scale = (2,2);
-}
-);
-width = 420;
-},
-{
-background = {
-shapes = (
-{
-pos = (-20,154);
-ref = period;
-scale = (2,2);
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-alignment = -1;
-pos = (-20,155);
-ref = dot;
-scale = (2,2);
-}
-);
-width = 420;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -93,6 +51,18 @@ width = 420;
 },
 {
 layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (-20,155);
+ref = dot;
+scale = (2,2);
+}
+);
+width = 420;
+},
+{
+layerId = m009;
 shapes = (
 {
 alignment = -1;

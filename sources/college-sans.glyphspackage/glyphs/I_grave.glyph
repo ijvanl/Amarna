@@ -28,32 +28,6 @@ ref = gravecomb;
 width = 220;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (-60,200);
-ref = gravecomb;
-}
-);
-width = 270;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (-32,200);
-ref = gravecomb;
-}
-);
-width = 270;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -86,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-55,200);
+pos = (-45,200);
+ref = gravecomb;
+}
+);
+width = 270;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-17,200);
 ref = gravecomb;
 }
 );

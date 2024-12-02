@@ -20,24 +20,6 @@ ref = caroncomb;
 width = 380;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = caroncomb;
-}
-);
-width = 380;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = caroncomb;
-}
-);
-width = 380;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -57,6 +39,15 @@ width = 380;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = caroncomb;
+}
+);
+width = 380;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = caroncomb;

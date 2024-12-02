@@ -25,29 +25,6 @@ slant = (16,0);
 width = 335;
 },
 {
-layerId = m004;
-shapes = (
-{
-pos = (340,0);
-ref = slash;
-scale = (-1,1);
-}
-);
-width = 340;
-},
-{
-layerId = m005;
-shapes = (
-{
-pos = (281,0);
-ref = slash;
-scale = (-1,1);
-slant = (16,0);
-}
-);
-width = 365;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -77,6 +54,18 @@ shapes = (
 pos = (340,0);
 ref = slash;
 scale = (-1,1);
+}
+);
+width = 340;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (260,0);
+ref = slash;
+scale = (-1,1);
+slant = (16,0);
 }
 );
 width = 340;

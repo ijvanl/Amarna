@@ -28,32 +28,6 @@ ref = ringcomb;
 width = 530;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (78,0);
-ref = ringcomb;
-}
-);
-width = 530;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (94,0);
-ref = ringcomb;
-}
-);
-width = 530;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -86,11 +60,24 @@ shapes = (
 ref = u;
 },
 {
-pos = (98,-20);
+pos = (108,-20);
 ref = ringcomb;
 }
 );
-width = 560;
+width = 580;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (105,-20);
+ref = ringcomb;
+}
+);
+width = 580;
 }
 );
 unicode = 367;

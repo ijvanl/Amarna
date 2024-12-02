@@ -28,32 +28,6 @@ ref = cedillacomb;
 width = 543;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = S;
-},
-{
-pos = (86,0);
-ref = cedillacomb;
-}
-);
-width = 571;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = S;
-},
-{
-pos = (86,0);
-ref = cedillacomb;
-}
-);
-width = 571;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = S;
 },
 {
 pos = (81,0);
+ref = cedillacomb;
+}
+);
+width = 581;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (46,0);
 ref = cedillacomb;
 }
 );

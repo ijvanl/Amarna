@@ -28,32 +28,6 @@ ref = commaaccentcomb;
 width = 225;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = l;
-},
-{
-pos = (18,0);
-ref = commaaccentcomb;
-}
-);
-width = 265;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = l;
-},
-{
-pos = (18,0);
-ref = commaaccentcomb;
-}
-);
-width = 255;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -81,6 +55,19 @@ width = 173;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (23,0);
+ref = commaaccentcomb;
+}
+);
+width = 258;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = l;

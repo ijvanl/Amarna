@@ -54,48 +54,6 @@ name = top;
 pos = (120,831);
 }
 );
-layerId = m004;
-shapes = (
-{
-angle = 180;
-pos = (225,690);
-ref = comma;
-}
-);
-width = 240;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (155,500);
-},
-{
-name = top;
-pos = (202,831);
-}
-);
-layerId = m005;
-shapes = (
-{
-angle = 180;
-pos = (225,690);
-ref = comma;
-}
-);
-width = 240;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (120,500);
-},
-{
-name = top;
-pos = (120,831);
-}
-);
 layerId = m006;
 shapes = (
 {
@@ -143,6 +101,27 @@ shapes = (
 {
 angle = 180;
 pos = (225,690);
+ref = comma;
+}
+);
+width = 240;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (155,500);
+},
+{
+name = top;
+pos = (202,831);
+}
+);
+layerId = m009;
+shapes = (
+{
+angle = 180;
+pos = (275,690);
 ref = comma;
 }
 );

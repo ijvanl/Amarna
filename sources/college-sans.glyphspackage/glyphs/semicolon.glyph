@@ -42,55 +42,6 @@ ref = dot;
 width = 220;
 },
 {
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (0,330);
-ref = period;
-}
-);
-};
-layerId = m004;
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (0,330);
-ref = dot;
-}
-);
-width = 220;
-},
-{
-background = {
-shapes = (
-{
-ref = comma;
-},
-{
-pos = (0,330);
-ref = period;
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-pos = (-20,0);
-ref = comma;
-},
-{
-pos = (20,330);
-ref = dot;
-}
-);
-width = 220;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -124,6 +75,21 @@ ref = comma;
 },
 {
 pos = (0,330);
+ref = dot;
+}
+);
+width = 220;
+},
+{
+layerId = m009;
+shapes = (
+{
+pos = (-5,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (11,330);
 ref = dot;
 }
 );

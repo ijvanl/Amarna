@@ -20,24 +20,6 @@ ref = acutecomb;
 width = 320;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = acutecomb;
-}
-);
-width = 320;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = acutecomb;
-}
-);
-width = 320;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -57,6 +39,15 @@ width = 320;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 320;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = acutecomb;

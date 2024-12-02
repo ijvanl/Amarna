@@ -22,26 +22,6 @@ ref = periodcentered;
 width = 70;
 },
 {
-layerId = m004;
-shapes = (
-{
-pos = (-120,100);
-ref = periodcentered;
-}
-);
-width = 70;
-},
-{
-layerId = m005;
-shapes = (
-{
-pos = (-120,100);
-ref = periodcentered;
-}
-);
-width = 70;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -63,6 +43,16 @@ width = 70;
 },
 {
 layerId = m008;
+shapes = (
+{
+pos = (-120,100);
+ref = periodcentered;
+}
+);
+width = 70;
+},
+{
+layerId = m009;
 shapes = (
 {
 pos = (-120,100);

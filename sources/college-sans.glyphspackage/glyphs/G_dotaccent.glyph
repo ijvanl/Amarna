@@ -28,32 +28,6 @@ ref = dotaccentcomb;
 width = 693;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = G;
-},
-{
-pos = (232,200);
-ref = dotaccentcomb;
-}
-);
-width = 693;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = G;
-},
-{
-pos = (260,200);
-ref = dotaccentcomb;
-}
-);
-width = 693;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = G;
 },
 {
 pos = (287,200);
+ref = dotaccentcomb;
+}
+);
+width = 713;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (315,200);
 ref = dotaccentcomb;
 }
 );

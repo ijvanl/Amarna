@@ -235,250 +235,6 @@ width = 732;
 anchors = (
 {
 name = bottom;
-pos = (363,0);
-},
-{
-name = center;
-pos = (363,350);
-},
-{
-name = top;
-pos = (303,700);
-}
-);
-background = {
-anchors = (
-{
-name = bottom;
-pos = (353,0);
-},
-{
-name = center;
-pos = (353,350);
-},
-{
-name = top;
-pos = (303,700);
-}
-);
-hints = (
-{
-name = _corner.serif;
-place = (128, 0);
-scale = (-0.8,1.5);
-type = Corner;
-},
-{
-name = _corner.serif;
-place = (128, 0);
-scale = (0.8,1.5);
-type = Corner;
-},
-{
-name = _corner.mitre;
-place = (207, 0);
-type = Corner;
-},
-{
-name = _corner.mitre;
-place = (207, 0);
-type = Corner;
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(75,250,l),
-(65,0,l),
-(291,0,ls),
-(483,0,o),
-(655,144,o),
-(655,352,cs),
-(655,521,o),
-(540,700,o),
-(304,700,cs),
-(70,700,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(159,635,l),
-(291,640,l),
-(450,640,o),
-(561,531,o),
-(561,336,cs),
-(561,149,o),
-(429,66,o),
-(293,60,c),
-(164,66,l),
-(155,250,l)
-);
-}
-);
-};
-layerId = m004;
-shapes = (
-{
-closed = 1;
-nodes = (
-(75,250,l),
-(65,0,l),
-(301,0,ls),
-(493,0,o),
-(675,144,o),
-(675,352,cs),
-(675,521,o),
-(550,700,o),
-(314,700,cs),
-(70,700,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(199,605,l),
-(301,607,l),
-(410,607,o),
-(541,511,o),
-(541,346,cs),
-(541,169,o),
-(419,98,o),
-(293,92,c),
-(204,96,l),
-(195,250,l)
-);
-}
-);
-width = 725;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (328,0);
-},
-{
-name = center;
-pos = (377,350);
-},
-{
-name = top;
-pos = (366,700);
-}
-);
-background = {
-anchors = (
-{
-name = bottom;
-pos = (353,0);
-},
-{
-name = center;
-pos = (353,350);
-},
-{
-name = top;
-pos = (303,700);
-}
-);
-hints = (
-{
-name = _corner.serif;
-place = (128, 0);
-scale = (-0.8,1.5);
-type = Corner;
-},
-{
-name = _corner.serif;
-place = (128, 0);
-scale = (0.8,1.5);
-type = Corner;
-},
-{
-name = _corner.mitre;
-place = (207, 0);
-type = Corner;
-},
-{
-name = _corner.mitre;
-place = (207, 0);
-type = Corner;
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(75,250,l),
-(65,0,l),
-(291,0,ls),
-(483,0,o),
-(655,144,o),
-(655,352,cs),
-(655,521,o),
-(540,700,o),
-(304,700,cs),
-(70,700,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(159,635,l),
-(291,640,l),
-(450,640,o),
-(561,531,o),
-(561,336,cs),
-(561,149,o),
-(429,66,o),
-(293,60,c),
-(164,66,l),
-(155,250,l)
-);
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-closed = 1;
-nodes = (
-(75,250,l),
-(30,0,l),
-(266,0,ls),
-(458,0,o),
-(660,144,o),
-(689,352,cs),
-(713,521,o),
-(613,700,o),
-(377,700,cs),
-(133,700,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(249,605,l),
-(351,607,l),
-(460,607,o),
-(578,511,o),
-(554,346,cs),
-(530,169,o),
-(398,98,o),
-(271,92,c),
-(182,96,l),
-(195,250,l)
-);
-}
-);
-width = 725;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (353,0);
 },
 {
@@ -807,6 +563,128 @@ nodes = (
 (419,85,o),
 (303,88,cs),
 (194,91,l),
+(185,250,l)
+);
+}
+);
+width = 735;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (328,0);
+},
+{
+name = center;
+pos = (377,350);
+},
+{
+name = top;
+pos = (376,700);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (363,0);
+},
+{
+name = center;
+pos = (363,350);
+},
+{
+name = top;
+pos = (313,700);
+}
+);
+hints = (
+{
+name = _corner.serif;
+place = (128, 0);
+scale = (-0.8,1.5);
+type = Corner;
+},
+{
+name = _corner.serif;
+place = (128, 0);
+scale = (0.8,1.5);
+type = Corner;
+},
+{
+name = _corner.mitre;
+place = (207, 0);
+type = Corner;
+},
+{
+name = _corner.mitre;
+place = (207, 0);
+type = Corner;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,250,l),
+(75,0,l),
+(301,0,ls),
+(493,0,o),
+(665,144,o),
+(665,352,cs),
+(665,521,o),
+(550,700,o),
+(314,700,cs),
+(80,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(169,635,l),
+(301,640,l),
+(460,640,o),
+(571,531,o),
+(571,336,cs),
+(571,149,o),
+(439,66,o),
+(303,60,c),
+(174,66,l),
+(165,250,l)
+);
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,250,l),
+(40,0,l),
+(266,0,ls),
+(498,0,o),
+(670,144,o),
+(699,352,cs),
+(723,521,o),
+(643,700,o),
+(387,700,cs),
+(143,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(240,610,l),
+(342,613,ls),
+(502,618,o),
+(610,531,o),
+(583,336,cs),
+(557,149,o),
+(396,85,o),
+(280,88,cs),
+(172,91,l),
 (185,250,l)
 );
 }

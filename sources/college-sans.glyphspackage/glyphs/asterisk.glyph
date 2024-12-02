@@ -72,76 +72,6 @@ ref = "asterisk-spike";
 width = 322;
 },
 {
-layerId = m004;
-shapes = (
-{
-alignment = -1;
-pos = (18,120);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = -72;
-pos = (-378,575);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = -144;
-pos = (-68,1092);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = 144;
-pos = (520,957);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = 72;
-pos = (573,356);
-ref = "asterisk-spike";
-}
-);
-width = 267;
-},
-{
-layerId = m005;
-shapes = (
-{
-alignment = -1;
-pos = (83,120);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = -72;
-pos = (-313,575);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = -144;
-pos = (-3,1092);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = 144;
-pos = (585,957);
-ref = "asterisk-spike";
-},
-{
-alignment = -1;
-angle = 72;
-pos = (638,356);
-ref = "asterisk-spike";
-}
-);
-width = 322;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -213,6 +143,41 @@ width = 311;
 },
 {
 layerId = m008;
+shapes = (
+{
+alignment = -1;
+pos = (18,120);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = -72;
+pos = (-378,575);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = -144;
+pos = (-68,1092);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = 144;
+pos = (520,957);
+ref = "asterisk-spike";
+},
+{
+alignment = -1;
+angle = 72;
+pos = (573,356);
+ref = "asterisk-spike";
+}
+);
+width = 267;
+},
+{
+layerId = m009;
 shapes = (
 {
 alignment = -1;

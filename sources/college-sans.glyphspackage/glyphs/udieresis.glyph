@@ -28,32 +28,6 @@ ref = dieresiscomb;
 width = 530;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (70,0);
-ref = dieresiscomb;
-}
-);
-width = 530;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = u;
-},
-{
-pos = (86,0);
-ref = dieresiscomb;
-}
-);
-width = 530;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -86,11 +60,24 @@ shapes = (
 ref = u;
 },
 {
-pos = (90,-20);
+pos = (100,-20);
 ref = dieresiscomb;
 }
 );
-width = 560;
+width = 580;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (97,-20);
+ref = dieresiscomb;
+}
+);
+width = 580;
 }
 );
 unicode = 252;

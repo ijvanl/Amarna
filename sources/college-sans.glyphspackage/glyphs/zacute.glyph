@@ -28,32 +28,6 @@ ref = acutecomb;
 width = 470;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = z;
-},
-{
-pos = (130,0);
-ref = acutecomb;
-}
-);
-width = 470;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = z;
-},
-{
-pos = (130,0);
-ref = acutecomb;
-}
-);
-width = 470;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = z;
 },
 {
 pos = (125,-10);
+ref = acutecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (124,-10);
 ref = acutecomb;
 }
 );

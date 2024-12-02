@@ -28,32 +28,6 @@ ref = caroncomb.alt;
 width = 225;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = l;
-},
-{
-pos = (215,0);
-ref = caroncomb.alt;
-}
-);
-width = 265;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = l;
-},
-{
-pos = (275,0);
-ref = caroncomb.alt;
-}
-);
-width = 255;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -81,6 +55,19 @@ width = 173;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (193,0);
+ref = caroncomb.alt;
+}
+);
+width = 258;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = l;

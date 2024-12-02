@@ -28,32 +28,6 @@ ref = ogonekcomb;
 width = 560;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (309,10);
-ref = ogonekcomb;
-}
-);
-width = 560;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (310,0);
-ref = ogonekcomb;
-}
-);
-width = 560;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = E;
 },
 {
 pos = (360,0);
+ref = ogonekcomb;
+}
+);
+width = 595;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (325,0);
 ref = ogonekcomb;
 }
 );

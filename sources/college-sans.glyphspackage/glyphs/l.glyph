@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = l;
 layers = (
 {
@@ -137,142 +136,6 @@ nodes = (
 }
 );
 width = 225;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (128,0);
-},
-{
-name = center;
-pos = (128,375);
-},
-{
-name = top;
-pos = (128,750);
-},
-{
-name = topright;
-pos = (215,750);
-}
-);
-background = {
-anchors = (
-{
-name = bottom;
-pos = (113,0);
-},
-{
-name = center;
-pos = (113,375);
-},
-{
-name = top;
-pos = (113,750);
-},
-{
-name = topright;
-pos = (175,750);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(77,550,l),
-(77,0,l),
-(160,0,l),
-(155,250,l),
-(155,760,l),
-(67,740,l)
-);
-}
-);
-};
-layerId = m004;
-shapes = (
-{
-closed = 1;
-nodes = (
-(77,550,l),
-(77,0,l),
-(200,0,l),
-(195,250,l),
-(195,760,l),
-(67,740,l)
-);
-}
-);
-width = 265;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (93,0);
-},
-{
-name = center;
-pos = (136,375);
-},
-{
-name = top;
-pos = (188,750);
-},
-{
-name = topright;
-pos = (275,750);
-}
-);
-background = {
-anchors = (
-{
-name = bottom;
-pos = (103,0);
-},
-{
-name = center;
-pos = (103,375);
-},
-{
-name = top;
-pos = (103,750);
-},
-{
-name = topright;
-pos = (165,750);
-}
-);
-shapes = (
-{
-closed = 1;
-nodes = (
-(67,550,l),
-(67,0,l),
-(150,0,l),
-(145,250,l),
-(145,760,l),
-(57,740,l)
-);
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-closed = 1;
-nodes = (
-(109,550,l),
-(32,0,l),
-(155,0,l),
-(185,250,l),
-(257,760,l),
-(126,740,l)
-);
-}
-);
-width = 255;
 },
 {
 anchors = (
@@ -473,6 +336,74 @@ nodes = (
 (183,250,l),
 (183,760,l),
 (75,740,l)
+);
+}
+);
+width = 258;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (98,0);
+},
+{
+name = center;
+pos = (149,375);
+},
+{
+name = top;
+pos = (201,750);
+},
+{
+name = topright;
+pos = (263,750);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (131,0);
+},
+{
+name = center;
+pos = (131,375);
+},
+{
+name = top;
+pos = (131,750);
+},
+{
+name = topright;
+pos = (193,750);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(95,550,l),
+(95,0,l),
+(178,0,l),
+(173,250,l),
+(173,760,l),
+(85,740,l)
+);
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,550,l),
+(50,0,l),
+(153,0,l),
+(183,250,l),
+(255,760,l),
+(144,740,l)
 );
 }
 );

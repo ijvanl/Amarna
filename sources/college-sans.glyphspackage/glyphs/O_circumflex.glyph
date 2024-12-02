@@ -28,32 +28,6 @@ ref = circumflexcomb;
 width = 795;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (208,200);
-ref = circumflexcomb;
-}
-);
-width = 795;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (306,200);
-ref = circumflexcomb;
-}
-);
-width = 795;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = O;
 },
 {
 pos = (213,200);
+ref = circumflexcomb;
+}
+);
+width = 805;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (241,200);
 ref = circumflexcomb;
 }
 );

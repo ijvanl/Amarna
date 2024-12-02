@@ -28,32 +28,6 @@ ref = macroncomb;
 width = 220;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (-65,200);
-ref = macroncomb;
-}
-);
-width = 270;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (-37,200);
-ref = macroncomb;
-}
-);
-width = 270;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -86,7 +60,20 @@ shapes = (
 ref = I;
 },
 {
-pos = (-75,200);
+pos = (-65,200);
+ref = macroncomb;
+}
+);
+width = 270;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-37,200);
 ref = macroncomb;
 }
 );

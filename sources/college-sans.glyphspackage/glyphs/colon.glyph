@@ -32,59 +32,6 @@ ref = dot;
 width = 211;
 },
 {
-background = {
-shapes = (
-{
-ref = dot;
-},
-{
-pos = (0,330);
-ref = period;
-}
-);
-};
-layerId = m004;
-shapes = (
-{
-ref = dot;
-},
-{
-alignment = -1;
-pos = (0,330);
-ref = dot;
-}
-);
-width = 230;
-},
-{
-background = {
-shapes = (
-{
-pos = (13,0);
-ref = dot;
-},
-{
-pos = (13,330);
-ref = period;
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-alignment = -1;
-pos = (-25,0);
-ref = dot;
-},
-{
-alignment = -1;
-pos = (22,330);
-ref = dot;
-}
-);
-width = 232;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -122,11 +69,27 @@ ref = dot;
 },
 {
 alignment = -1;
-pos = (0,330);
+pos = (40,330);
 ref = dot;
 }
 );
-width = 230;
+width = 280;
+},
+{
+layerId = m009;
+shapes = (
+{
+alignment = -1;
+pos = (-16,0);
+ref = dot;
+},
+{
+alignment = -1;
+pos = (30,330);
+ref = dot;
+}
+);
+width = 252;
 }
 );
 metricLeft = "=period";

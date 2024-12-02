@@ -28,32 +28,6 @@ ref = dieresiscomb;
 width = 596;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (103,200);
-ref = dieresiscomb;
-}
-);
-width = 596;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (131,190);
-ref = dieresiscomb;
-}
-);
-width = 596;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = Y;
 },
 {
 pos = (138,150);
+ref = dieresiscomb;
+}
+);
+width = 651;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (159,150);
 ref = dieresiscomb;
 }
 );

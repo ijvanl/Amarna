@@ -28,32 +28,6 @@ ref = commaaccentcomb;
 width = 480;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = k;
-},
-{
-pos = (130,0);
-ref = commaaccentcomb;
-}
-);
-width = 480;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = k;
-},
-{
-pos = (130,0);
-ref = commaaccentcomb;
-}
-);
-width = 480;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -90,7 +64,20 @@ pos = (170,10);
 ref = commaaccentcomb;
 }
 );
-width = 515;
+width = 540;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (171,10);
+ref = commaaccentcomb;
+}
+);
+width = 540;
 }
 );
 unicode = 311;

@@ -22,26 +22,6 @@ ref = dot;
 width = 211;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = dot;
-}
-);
-width = 230;
-},
-{
-layerId = m005;
-shapes = (
-{
-alignment = -1;
-pos = (-25,0);
-ref = dot;
-}
-);
-width = 232;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -63,6 +43,15 @@ width = 151;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = dot;
+}
+);
+width = 230;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = dot;

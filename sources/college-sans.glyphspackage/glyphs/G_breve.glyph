@@ -28,32 +28,6 @@ ref = brevecomb;
 width = 693;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = G;
-},
-{
-pos = (137,200);
-ref = brevecomb;
-}
-);
-width = 693;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = G;
-},
-{
-pos = (165,200);
-ref = brevecomb;
-}
-);
-width = 693;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = G;
 },
 {
 pos = (192,200);
+ref = brevecomb;
+}
+);
+width = 713;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (220,200);
 ref = brevecomb;
 }
 );

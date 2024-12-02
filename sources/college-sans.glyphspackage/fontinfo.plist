@@ -336,55 +336,7 @@ GSOffsetVertical = 10;
 },
 {
 axesValues = (
-800,
-0
-);
-guides = (
-{
-angle = 113.6725;
-pos = (462,-160);
-}
-);
-iconName = Bold;
-id = m004;
-metricValues = (
-{
-over = 20;
-pos = 750;
-},
-{
-over = 20;
-pos = 700;
-},
-{
-over = 20;
-pos = 500;
-},
-{
-over = -20;
-},
-{
-over = -20;
-pos = -300;
-},
-{
-}
-);
-name = Heavy;
-stemValues = (
-80,
-60,
-65,
-80
-);
-userData = {
-GSOffsetHorizontal = 20;
-GSOffsetVertical = 15;
-};
-},
-{
-axesValues = (
-800,
+700,
 1
 );
 guides = (
@@ -393,8 +345,8 @@ angle = 113.6725;
 pos = (462,-160);
 }
 );
-iconName = Bold_Extended;
-id = m005;
+iconName = SemiBold_Extended;
+id = m009;
 metricValues = (
 {
 over = 20;
@@ -419,7 +371,7 @@ pos = -300;
 pos = 8;
 }
 );
-name = "Heavy Italic";
+name = "Bold Italic";
 stemValues = (
 80,
 60,
@@ -428,7 +380,9 @@ stemValues = (
 );
 userData = {
 GSOffsetHorizontal = 20;
-GSOffsetVertical = 15;
+GSOffsetMakeStroke = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
 };
 }
 );
@@ -549,8 +503,8 @@ axesValues = (
 1
 );
 instanceInterpolations = {
-m003 = 0.75;
-m005 = 0.25;
+m003 = 1.33333;
+m007 = -0.33333;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -593,8 +547,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m003 = 0.5;
-m005 = 0.5;
+m003 = 1.66667;
+m007 = -0.66667;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -638,8 +592,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m003 = 0.25;
-m005 = 0.75;
+m003 = 2;
+m007 = -1;
 };
 isBold = 1;
 isItalic = 1;

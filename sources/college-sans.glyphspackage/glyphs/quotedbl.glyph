@@ -28,32 +28,6 @@ ref = quotesingle;
 width = 294;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (170,0);
-ref = quotesingle;
-}
-);
-width = 400;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = quotesingle;
-},
-{
-pos = (170,0);
-ref = quotesingle;
-}
-);
-width = 374;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -86,11 +60,24 @@ shapes = (
 ref = quotesingle;
 },
 {
-pos = (130,0);
+pos = (150,0);
 ref = quotesingle;
 }
 );
-width = 320;
+width = 340;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (150,0);
+ref = quotesingle;
+}
+);
+width = 340;
 }
 );
 unicode = 34;

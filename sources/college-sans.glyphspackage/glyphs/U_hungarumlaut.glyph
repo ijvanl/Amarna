@@ -28,32 +28,6 @@ ref = hungarumlautcomb;
 width = 697;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = U;
-},
-{
-pos = (184,180);
-ref = hungarumlautcomb;
-}
-);
-width = 697;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = U;
-},
-{
-pos = (219,180);
-ref = hungarumlautcomb;
-}
-);
-width = 697;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = U;
 },
 {
 pos = (214,150);
+ref = hungarumlautcomb;
+}
+);
+width = 727;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (235,150);
 ref = hungarumlautcomb;
 }
 );

@@ -35,7 +35,7 @@ pos = (345,0);
 ref = thorn;
 }
 );
-width = 875;
+width = 892;
 },
 {
 anchors = (
@@ -95,88 +95,17 @@ name = top_2;
 pos = (641,750);
 }
 );
-layerId = m004;
-shapes = (
-{
-ref = f.lig_ascender;
-},
-{
-pos = (325,0);
-ref = thorn;
-}
-);
-width = 865;
-},
-{
-anchors = (
-{
-name = bottom_1;
-pos = (214,0);
-},
-{
-name = bottom_2;
-pos = (641,0);
-},
-{
-name = caret_1;
-pos = (427.5,0);
-},
-{
-name = top_1;
-pos = (214,750);
-},
-{
-name = top_2;
-pos = (641,750);
-}
-);
-layerId = m005;
-shapes = (
-{
-ref = f.lig_ascender;
-},
-{
-alignment = -1;
-pos = (305,0);
-ref = thorn;
-}
-);
-width = 845;
-},
-{
-anchors = (
-{
-name = bottom_1;
-pos = (214,0);
-},
-{
-name = bottom_2;
-pos = (641,0);
-},
-{
-name = caret_1;
-pos = (427.5,0);
-},
-{
-name = top_1;
-pos = (214,750);
-},
-{
-name = top_2;
-pos = (641,750);
-}
-);
 layerId = m006;
 shapes = (
 {
 ref = f.lig_ascender;
 },
 {
-pos = (273,0);
+pos = (283,0);
 ref = thorn;
 }
 );
-width = 777;
+width = 787;
 },
 {
 anchors = (
@@ -243,11 +172,47 @@ ref = f.lig_ascender;
 },
 {
 alignment = -1;
-pos = (345,0);
+pos = (335,0);
 ref = thorn;
 }
 );
-width = 875;
+width = 907;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (214,0);
+},
+{
+name = bottom_2;
+pos = (641,0);
+},
+{
+name = caret_1;
+pos = (427.5,0);
+},
+{
+name = top_1;
+pos = (214,750);
+},
+{
+name = top_2;
+pos = (641,750);
+}
+);
+layerId = m009;
+shapes = (
+{
+ref = f.lig_ascender;
+},
+{
+alignment = -1;
+pos = (335,0);
+ref = thorn;
+}
+);
+width = 907;
 }
 );
 metricLeft = "=f.lig_ascender";

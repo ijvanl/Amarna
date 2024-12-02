@@ -77,62 +77,6 @@ ref = dieresiscomb;
 }
 );
 };
-layerId = m004;
-shapes = (
-{
-pos = (380,1335);
-ref = circumflexcomb;
-scale = (-1,-1);
-}
-);
-width = 380;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (225,500);
-},
-{
-name = top;
-pos = (261,755);
-}
-);
-background = {
-shapes = (
-{
-ref = dieresiscomb;
-}
-);
-};
-layerId = m005;
-shapes = (
-{
-pos = (470,1335);
-ref = circumflexcomb;
-scale = (-1,-1);
-}
-);
-width = 380;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (190,500);
-},
-{
-name = top;
-pos = (190,755);
-}
-);
-background = {
-shapes = (
-{
-ref = dieresiscomb;
-}
-);
-};
 layerId = m006;
 shapes = (
 {
@@ -193,6 +137,34 @@ layerId = m008;
 shapes = (
 {
 pos = (380,1335);
+ref = circumflexcomb;
+scale = (-1,-1);
+}
+);
+width = 380;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (225,500);
+},
+{
+name = top;
+pos = (261,755);
+}
+);
+background = {
+shapes = (
+{
+ref = dieresiscomb;
+}
+);
+};
+layerId = m009;
+shapes = (
+{
+pos = (480,1335);
 ref = circumflexcomb;
 scale = (-1,-1);
 }

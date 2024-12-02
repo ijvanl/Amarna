@@ -28,32 +28,6 @@ ref = quotesinglbase;
 width = 390;
 },
 {
-layerId = m004;
-shapes = (
-{
-pos = (190,0);
-ref = quotesinglbase;
-},
-{
-ref = quotesinglbase;
-}
-);
-width = 460;
-},
-{
-layerId = m005;
-shapes = (
-{
-pos = (190,0);
-ref = quotesinglbase;
-},
-{
-ref = quotesinglbase;
-}
-);
-width = 460;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -81,6 +55,19 @@ width = 350;
 },
 {
 layerId = m008;
+shapes = (
+{
+pos = (160,0);
+ref = quotesinglbase;
+},
+{
+ref = quotesinglbase;
+}
+);
+width = 390;
+},
+{
+layerId = m009;
 shapes = (
 {
 pos = (160,0);

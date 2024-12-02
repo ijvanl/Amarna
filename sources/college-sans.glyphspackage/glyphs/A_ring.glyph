@@ -28,32 +28,6 @@ ref = ringcomb;
 width = 626;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (126,200);
-ref = ringcomb;
-}
-);
-width = 626;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (164,200);
-ref = ringcomb;
-}
-);
-width = 626;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = A;
 },
 {
 pos = (156,200);
+ref = ringcomb;
+}
+);
+width = 666;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (184,200);
 ref = ringcomb;
 }
 );

@@ -28,32 +28,6 @@ ref = tildecomb;
 width = 626;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (87,200);
-ref = tildecomb;
-}
-);
-width = 626;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = A;
-},
-{
-pos = (125,200);
-ref = tildecomb;
-}
-);
-width = 626;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -87,6 +61,19 @@ ref = A;
 },
 {
 pos = (117,200);
+ref = tildecomb;
+}
+);
+width = 666;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (145,200);
 ref = tildecomb;
 }
 );

@@ -24,28 +24,6 @@ ref = greater;
 width = 600;
 },
 {
-layerId = m004;
-shapes = (
-{
-angle = 180;
-pos = (600,500);
-ref = greater;
-}
-);
-width = 600;
-},
-{
-layerId = m005;
-shapes = (
-{
-angle = 180;
-pos = (600,500);
-ref = greater;
-}
-);
-width = 600;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -69,6 +47,17 @@ width = 600;
 },
 {
 layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (600,500);
+ref = greater;
+}
+);
+width = 600;
+},
+{
+layerId = m009;
 shapes = (
 {
 angle = 180;

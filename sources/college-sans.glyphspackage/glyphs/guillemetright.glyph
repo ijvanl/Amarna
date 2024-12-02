@@ -28,32 +28,6 @@ ref = guilsinglright;
 width = 545;
 },
 {
-layerId = m004;
-shapes = (
-{
-ref = guilsinglright;
-},
-{
-pos = (220,0);
-ref = guilsinglright;
-}
-);
-width = 545;
-},
-{
-layerId = m005;
-shapes = (
-{
-ref = guilsinglright;
-},
-{
-pos = (220,0);
-ref = guilsinglright;
-}
-);
-width = 545;
-},
-{
 layerId = m006;
 shapes = (
 {
@@ -81,6 +55,19 @@ width = 545;
 },
 {
 layerId = m008;
+shapes = (
+{
+ref = guilsinglright;
+},
+{
+pos = (220,0);
+ref = guilsinglright;
+}
+);
+width = 545;
+},
+{
+layerId = m009;
 shapes = (
 {
 ref = guilsinglright;
