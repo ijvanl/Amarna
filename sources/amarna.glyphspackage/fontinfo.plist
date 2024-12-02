@@ -12,7 +12,7 @@ tag = ital;
 }
 );
 date = "2024-07-30 02:16:30 +0000";
-familyName = "College Sans";
+familyName = Amarna;
 featurePrefixes = (
 {
 automatic = 1;
