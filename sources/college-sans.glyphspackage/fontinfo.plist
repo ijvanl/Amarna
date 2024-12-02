@@ -121,10 +121,10 @@ pos = -300;
 );
 name = Hairline;
 stemValues = (
-80,
-60,
-65,
-80
+35,
+25,
+30,
+35
 );
 userData = {
 GSOffsetHorizontal = 20;
@@ -322,10 +322,10 @@ pos = -300;
 );
 name = Bold;
 stemValues = (
-80,
-60,
-65,
-80
+95,
+70,
+75,
+95
 );
 userData = {
 GSOffsetHorizontal = 20;
@@ -373,10 +373,10 @@ pos = 8;
 );
 name = "Bold Italic";
 stemValues = (
-80,
-60,
-65,
-80
+95,
+70,
+75,
+95
 );
 userData = {
 GSOffsetHorizontal = 20;
@@ -503,8 +503,8 @@ axesValues = (
 1
 );
 instanceInterpolations = {
-m003 = 1.33333;
-m007 = -0.33333;
+m003 = 0.66667;
+m009 = 0.33333;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -547,8 +547,8 @@ value = (
 }
 );
 instanceInterpolations = {
-m003 = 1.66667;
-m007 = -0.66667;
+m003 = 0.33333;
+m009 = 0.66667;
 };
 isItalic = 1;
 linkStyle = Semibold;
@@ -592,8 +592,7 @@ value = (
 }
 );
 instanceInterpolations = {
-m003 = 2;
-m007 = -1;
+m009 = 1;
 };
 isBold = 1;
 isItalic = 1;

@@ -69,11 +69,11 @@ ref = dot;
 },
 {
 alignment = -1;
-pos = (40,330);
+pos = (0,330);
 ref = dot;
 }
 );
-width = 280;
+width = 230;
 },
 {
 layerId = m009;
