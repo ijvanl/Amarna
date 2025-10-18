@@ -13,7 +13,7 @@ in the `sources` directory of the project.
 
 ## Contributors
 Amarna was designed by Ishtar van Looy.
-Copyright 2024 Ishtar van Looy (ishvanlooy@gmail.com).
+Copyright 2024–2025 Ishtar van Looy (ishvanlooy@gmail.com).
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is in this repo at `OFL.txt` and is also available with a FAQ at: https://scripts.sil.org/OFL.
