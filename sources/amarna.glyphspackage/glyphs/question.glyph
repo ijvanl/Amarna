@@ -275,7 +275,7 @@ background = {
 hints = (
 {
 name = _corner.mitre;
-place = (74, 0);
+place = (74,0);
 scale = (1.5,1.5);
 type = Corner;
 },

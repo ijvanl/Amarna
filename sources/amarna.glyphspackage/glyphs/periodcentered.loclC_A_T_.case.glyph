@@ -5,61 +5,61 @@ layers = (
 layerId = m002;
 shapes = (
 {
-pos = (-120,100);
+pos = (0,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 },
 {
 layerId = m003;
 shapes = (
 {
-pos = (-120,100);
+pos = (14,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 },
 {
 layerId = m006;
 shapes = (
 {
-pos = (-120,100);
+pos = (0,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 },
 {
 layerId = m007;
 shapes = (
 {
-pos = (-120,100);
+pos = (14,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 },
 {
 layerId = m008;
 shapes = (
 {
-pos = (-120,100);
+pos = (0,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 },
 {
 layerId = m009;
 shapes = (
 {
-pos = (-120,100);
+pos = (14,100);
 ref = periodcentered;
 }
 );
-width = 70;
+width = 230;
 }
 );
 }

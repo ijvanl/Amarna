@@ -1,5 +1,5 @@
 {
-.appVersion = "3134";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -19,6 +19,13 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
 languagesystem latn CAT;
 ";
 name = Languagesystems;
@@ -37,10 +44,34 @@ tag = aalt;
 automatic = 1;
 code = "lookup locl_latn_0 {
 	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
 	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl_latn_0;
+} locl_latn_2;
 ";
 tag = locl;
 },
@@ -72,14 +103,22 @@ code = "lookup rlig_latn_0 {
 tag = rlig;
 },
 {
-code = "#ifdef VARIABLE
-
-condition 550 < wght;
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+";
+tag = ccmp;
+},
+{
+code = "condition 550 < wght;
 sub dollar by dollar.bold;
 sub cent by cent.bold;
-
-#endif";
-tag = rlig;
+";
+tag = rvrn;
 }
 );
 fontMaster = (
@@ -389,82 +428,6 @@ GSOffsetVertical = 10;
 instances = (
 {
 axesValues = (
-100,
-0
-);
-instanceInterpolations = {
-m006 = 1;
-};
-name = Hairline;
-weightClass = 100;
-},
-{
-axesValues = (
-100,
-1
-);
-instanceInterpolations = {
-m007 = 1;
-};
-isItalic = 1;
-linkStyle = Hairline;
-name = "Hairline Italic";
-weightClass = 100;
-},
-{
-axesValues = (
-200,
-0
-);
-instanceInterpolations = {
-m002 = 0.33333;
-m006 = 0.66667;
-};
-name = Thin;
-weightClass = 200;
-},
-{
-axesValues = (
-200,
-1
-);
-instanceInterpolations = {
-m003 = 0.33333;
-m007 = 0.66667;
-};
-isItalic = 1;
-linkStyle = Thin;
-name = "Thin Italic";
-weightClass = 200;
-},
-{
-axesValues = (
-300,
-0
-);
-instanceInterpolations = {
-m002 = 0.66667;
-m006 = 0.33333;
-};
-name = Light;
-weightClass = 300;
-},
-{
-axesValues = (
-300,
-1
-);
-instanceInterpolations = {
-m003 = 0.66667;
-m007 = 0.33333;
-};
-isItalic = 1;
-linkStyle = Light;
-name = "Light Italic";
-weightClass = 300;
-},
-{
-axesValues = (
 400,
 0
 );
@@ -599,6 +562,82 @@ isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
 weightClass = 700;
+},
+{
+axesValues = (
+100,
+0
+);
+instanceInterpolations = {
+m006 = 1;
+};
+name = Hairline;
+weightClass = 100;
+},
+{
+axesValues = (
+100,
+1
+);
+instanceInterpolations = {
+m007 = 1;
+};
+isItalic = 1;
+linkStyle = Hairline;
+name = "Hairline Italic";
+weightClass = 100;
+},
+{
+axesValues = (
+200,
+0
+);
+instanceInterpolations = {
+m002 = 0.33333;
+m006 = 0.66667;
+};
+name = Thin;
+weightClass = 200;
+},
+{
+axesValues = (
+200,
+1
+);
+instanceInterpolations = {
+m003 = 0.33333;
+m007 = 0.66667;
+};
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+weightClass = 200;
+},
+{
+axesValues = (
+300,
+0
+);
+instanceInterpolations = {
+m002 = 0.66667;
+m006 = 0.33333;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+300,
+1
+);
+instanceInterpolations = {
+m003 = 0.66667;
+m007 = 0.33333;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Light Italic";
+weightClass = 300;
 }
 );
 metrics = (

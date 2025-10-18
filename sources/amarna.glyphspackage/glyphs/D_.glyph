@@ -34,24 +34,24 @@ pos = (313,700);
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );
@@ -142,24 +142,24 @@ background = {
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );
@@ -250,24 +250,24 @@ background = {
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );
@@ -358,24 +358,24 @@ background = {
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );
@@ -480,24 +480,24 @@ pos = (313,700);
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );
@@ -602,24 +602,24 @@ pos = (313,700);
 hints = (
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (-0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.serif;
-place = (128, 0);
+place = (128,0);
 scale = (0.8,1.5);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
-place = (207, 0);
+place = (207,0);
 type = Corner;
 }
 );

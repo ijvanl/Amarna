@@ -17,37 +17,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );
@@ -137,37 +137,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );
@@ -257,37 +257,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );
@@ -377,37 +377,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );
@@ -497,37 +497,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );
@@ -617,37 +617,37 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (121, 0);
+place = (121,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (358, 0);
+place = (358,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (119, 0);
+place = (119,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (360, 0);
+place = (360,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (315, 0);
+place = (315,0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (94, 0);
+place = (94,0);
 type = Corner;
 }
 );

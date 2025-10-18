@@ -31,11 +31,11 @@ ref = f.lig_ascender;
 },
 {
 alignment = -1;
-pos = (327,0);
+pos = (287,0);
 ref = l;
 }
 );
-width = 585;
+width = 545;
 },
 {
 anchors = (

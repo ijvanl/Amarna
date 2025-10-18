@@ -31,11 +31,11 @@ ref = f.lig_ascender;
 },
 {
 alignment = -1;
-pos = (345,0);
+pos = (295,0);
 ref = thorn;
 }
 );
-width = 892;
+width = 842;
 },
 {
 anchors = (
@@ -172,7 +172,7 @@ ref = f.lig_ascender;
 },
 {
 alignment = -1;
-pos = (335,0);
+pos = (330,0);
 ref = thorn;
 }
 );
@@ -208,7 +208,7 @@ ref = f.lig_ascender;
 },
 {
 alignment = -1;
-pos = (335,0);
+pos = (330,0);
 ref = thorn;
 }
 );
