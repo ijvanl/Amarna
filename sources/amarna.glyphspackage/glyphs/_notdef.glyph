@@ -2,20 +2,6 @@
 glyphname = .notdef;
 layers = (
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -91,20 +77,6 @@ scale = "{0.76923, 0.76923}";
 width = 600;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m003;
 shapes = (
 {
@@ -180,20 +152,6 @@ scale = "{0.76923, 0.76923}";
 width = 600;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m006;
 shapes = (
 {
@@ -269,20 +227,6 @@ scale = "{0.76923, 0.76923}";
 width = 600;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m007;
 shapes = (
 {
@@ -358,20 +302,6 @@ scale = "{0.76923, 0.76923}";
 width = 600;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m008;
 shapes = (
 {
@@ -447,20 +377,6 @@ scale = "{0.76923, 0.76923}";
 width = 600;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (2,14);
-scale = (1.15385,1.15385);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (2,27);
-scale = (0.76923,0.76923);
-type = Segment;
-}
-);
 layerId = m009;
 shapes = (
 {

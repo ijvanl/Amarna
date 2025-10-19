@@ -112,13 +112,6 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 ";
 tag = ccmp;
-},
-{
-code = "condition 550 < wght;
-sub dollar by dollar.bold;
-sub cent by cent.bold;
-";
-tag = rvrn;
 }
 );
 fontMaster = (

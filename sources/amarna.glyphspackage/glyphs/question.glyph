@@ -33,19 +33,6 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -126,19 +113,6 @@ name = _segment.bulge;
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-}
-);
 layerId = m003;
 shapes = (
 {
@@ -219,19 +193,6 @@ name = _segment.bulge;
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-}
-);
 layerId = m006;
 shapes = (
 {
@@ -318,19 +279,6 @@ name = _segment.bulge;
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-}
-);
 layerId = m007;
 shapes = (
 {
@@ -412,19 +360,6 @@ name = _segment.bulge;
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-}
-);
 layerId = m008;
 shapes = (
 {
@@ -505,19 +440,6 @@ name = _segment.bulge;
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _corner.mitre;
-origin = (0,7);
-scale = (1.5,1.5);
-type = Corner;
-}
-);
 layerId = m009;
 shapes = (
 {
