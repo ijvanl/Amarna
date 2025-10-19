@@ -472,15 +472,6 @@ axesValues = (
 600,
 0
 );
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"dollar.bold=dollar",
-"cent.bold=cent"
-);
-}
-);
 instanceInterpolations = {
 m002 = 0.33333;
 m008 = 0.66667;
@@ -492,15 +483,6 @@ weightClass = 600;
 axesValues = (
 600,
 1
-);
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"dollar.bold=dollar",
-"cent.bold=cent"
-);
-}
 );
 instanceInterpolations = {
 m003 = 0.33333;
@@ -516,15 +498,6 @@ axesValues = (
 700,
 0
 );
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"dollar.bold=dollar",
-"cent.bold=cent"
-);
-}
-);
 instanceInterpolations = {
 m008 = 1;
 };
@@ -537,15 +510,6 @@ weightClass = 700;
 axesValues = (
 700,
 1
-);
-customParameters = (
-{
-name = "Rename Glyphs";
-value = (
-"dollar.bold=dollar",
-"cent.bold=cent"
-);
-}
 );
 instanceInterpolations = {
 m009 = 1;
