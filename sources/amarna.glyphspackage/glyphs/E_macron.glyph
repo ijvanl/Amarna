@@ -21,7 +21,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (138,200);
+pos = (108,200);
 ref = macroncomb;
 }
 );

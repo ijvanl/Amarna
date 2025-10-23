@@ -11,6 +11,17 @@ name = Italic;
 tag = ital;
 }
 );
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2024-07-30 02:16:30 +0000";
 familyName = Amarna;
 featurePrefixes = (
@@ -27,6 +38,7 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
 }
@@ -42,36 +54,44 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
-	language MOL;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
 ";
 tag = locl;
 },
@@ -90,9 +110,9 @@ tag = case;
 },
 {
 automatic = 1;
-code = "lookup rlig_latn_0 {
+code = "script latn;
+lookup rlig_latn_0 {
 	lookupflag IgnoreMarks;
-	script latn;
 	sub f b by f_b.rlig;
 	sub f h by f_h.rlig;
 	sub f k by f_k.rlig;
@@ -130,8 +150,7 @@ iconName = Light;
 id = m006;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -145,10 +164,17 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = Hairline;
@@ -180,8 +206,7 @@ iconName = Light_Extended;
 id = m007;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -195,11 +220,18 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
 pos = 8;
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = "Hairline Italic";
@@ -224,14 +256,15 @@ axesValues = (
 guides = (
 {
 angle = 113.6725;
+lockAngle = 1;
+locked = 1;
 pos = (462,-160);
 }
 );
 id = m002;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -245,10 +278,17 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = Regular;
@@ -280,8 +320,7 @@ iconName = Extended;
 id = m003;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -295,11 +334,18 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
 pos = 8;
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = Italic;
@@ -331,8 +377,7 @@ iconName = SemiBold;
 id = m008;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -346,10 +391,17 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = Bold;
@@ -381,8 +433,7 @@ iconName = SemiBold_Extended;
 id = m009;
 metricValues = (
 {
-over = 20;
-pos = 750;
+pos = 1025;
 },
 {
 over = 20;
@@ -396,11 +447,18 @@ pos = 500;
 over = -20;
 },
 {
-over = -20;
-pos = -300;
+pos = -350;
 },
 {
 pos = 8;
+},
+{
+over = 20;
+pos = 750;
+},
+{
+over = -20;
+pos = -300;
 }
 );
 name = "Bold Italic";
@@ -424,9 +482,6 @@ axesValues = (
 400,
 0
 );
-instanceInterpolations = {
-m002 = 1;
-};
 name = Regular;
 },
 {
@@ -434,9 +489,6 @@ axesValues = (
 400,
 1
 );
-instanceInterpolations = {
-m003 = 1;
-};
 isItalic = 1;
 linkStyle = Regular;
 name = "Regular Italic";
@@ -446,10 +498,6 @@ axesValues = (
 500,
 0
 );
-instanceInterpolations = {
-m002 = 0.66667;
-m008 = 0.33333;
-};
 name = Medium;
 weightClass = 500;
 },
@@ -458,10 +506,6 @@ axesValues = (
 500,
 1
 );
-instanceInterpolations = {
-m003 = 0.66667;
-m009 = 0.33333;
-};
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
@@ -472,10 +516,6 @@ axesValues = (
 600,
 0
 );
-instanceInterpolations = {
-m002 = 0.33333;
-m008 = 0.66667;
-};
 name = Semibold;
 weightClass = 600;
 },
@@ -484,10 +524,6 @@ axesValues = (
 600,
 1
 );
-instanceInterpolations = {
-m003 = 0.33333;
-m009 = 0.66667;
-};
 isItalic = 1;
 linkStyle = Semibold;
 name = "Semibold Italic";
@@ -498,9 +534,6 @@ axesValues = (
 700,
 0
 );
-instanceInterpolations = {
-m008 = 1;
-};
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
@@ -511,9 +544,6 @@ axesValues = (
 700,
 1
 );
-instanceInterpolations = {
-m009 = 1;
-};
 isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
@@ -525,9 +555,6 @@ axesValues = (
 100,
 0
 );
-instanceInterpolations = {
-m006 = 1;
-};
 name = Hairline;
 weightClass = 100;
 },
@@ -536,9 +563,6 @@ axesValues = (
 100,
 1
 );
-instanceInterpolations = {
-m007 = 1;
-};
 isItalic = 1;
 linkStyle = Hairline;
 name = "Hairline Italic";
@@ -549,10 +573,6 @@ axesValues = (
 200,
 0
 );
-instanceInterpolations = {
-m002 = 0.33333;
-m006 = 0.66667;
-};
 name = Thin;
 weightClass = 200;
 },
@@ -561,10 +581,6 @@ axesValues = (
 200,
 1
 );
-instanceInterpolations = {
-m003 = 0.33333;
-m007 = 0.66667;
-};
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
@@ -575,10 +591,6 @@ axesValues = (
 300,
 0
 );
-instanceInterpolations = {
-m002 = 0.66667;
-m006 = 0.33333;
-};
 name = Light;
 weightClass = 300;
 },
@@ -587,10 +599,6 @@ axesValues = (
 300,
 1
 );
-instanceInterpolations = {
-m003 = 0.66667;
-m007 = 0.33333;
-};
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
@@ -615,8 +623,33 @@ type = descender;
 },
 {
 type = "italic angle";
+},
+{
+type = bodyHeight;
+},
+{
+name = "Visual Descender";
 }
 );
+properties = (
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Ishtar van Looy";
+}
+);
+},
+{
+key = designerURL;
+value = "https://ishtar.page/";
+}
+);
+settings = {
+fontType = variable;
+previewRemoveOverlap = 0;
+};
 stems = (
 {
 name = "VStem 1";
@@ -635,5 +668,5 @@ name = "HStem 2";
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

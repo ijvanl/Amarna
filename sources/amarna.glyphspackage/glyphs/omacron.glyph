@@ -1,0 +1,84 @@
+{
+glyphname = omacron;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (77,0);
+ref = macroncomb;
+}
+);
+width = 554;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (77,0);
+ref = macroncomb;
+}
+);
+width = 554;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = macroncomb;
+}
+);
+width = 564;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (67,0);
+ref = macroncomb;
+}
+);
+width = 554;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = macroncomb;
+}
+);
+width = 564;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = macroncomb;
+}
+);
+width = 564;
+}
+);
+unicode = 333;
+}

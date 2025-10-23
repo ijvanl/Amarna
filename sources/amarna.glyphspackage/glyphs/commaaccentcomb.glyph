@@ -49,13 +49,13 @@ pos = (110,0);
 },
 {
 name = bottom;
-pos = (110,-331);
+pos = (110,-291);
 }
 );
 layerId = m006;
 shapes = (
 {
-pos = (0,-190);
+pos = (0,-140);
 ref = comma;
 }
 );
@@ -65,17 +65,17 @@ width = 230;
 anchors = (
 {
 name = _bottom;
-pos = (110,0);
+pos = (95,0);
 },
 {
 name = bottom;
-pos = (110,-331);
+pos = (54,-291);
 }
 );
 layerId = m007;
 shapes = (
 {
-pos = (0,-190);
+pos = (20,-140);
 ref = comma;
 }
 );

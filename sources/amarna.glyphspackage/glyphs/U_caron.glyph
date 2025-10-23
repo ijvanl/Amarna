@@ -1,0 +1,84 @@
+{
+glyphname = Ucaron;
+layers = (
+{
+layerId = m007;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (166,150);
+ref = caroncomb;
+}
+);
+width = 697;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (159,150);
+ref = caroncomb;
+}
+);
+width = 697;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (179,150);
+ref = caroncomb;
+}
+);
+width = 727;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (187,160);
+ref = caroncomb;
+}
+);
+width = 697;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (179,150);
+ref = caroncomb;
+}
+);
+width = 727;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (200,150);
+ref = caroncomb;
+}
+);
+width = 727;
+}
+);
+unicode = 467;
+}

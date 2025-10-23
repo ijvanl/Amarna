@@ -1,0 +1,84 @@
+{
+glyphname = Ubreve;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (139,150);
+ref = brevecomb;
+}
+);
+width = 697;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (160,150);
+ref = brevecomb;
+}
+);
+width = 697;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (159,150);
+ref = brevecomb;
+}
+);
+width = 727;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (167,160);
+ref = brevecomb;
+}
+);
+width = 697;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (159,150);
+ref = brevecomb;
+}
+);
+width = 727;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (180,150);
+ref = brevecomb;
+}
+);
+width = 727;
+}
+);
+unicode = 364;
+}

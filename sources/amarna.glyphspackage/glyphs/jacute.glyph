@@ -1,0 +1,83 @@
+{
+glyphname = jacute;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-15,0);
+ref = acutecomb;
+}
+);
+width = 223;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-16,0);
+ref = acutecomb;
+}
+);
+width = 170;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-24,0);
+ref = acutecomb;
+}
+);
+width = 276;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-19,0);
+ref = acutecomb;
+}
+);
+width = 231;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (26,0);
+ref = acutecomb;
+}
+);
+width = 296;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (6,0);
+ref = acutecomb;
+}
+);
+width = 296;
+}
+);
+}

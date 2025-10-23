@@ -1,0 +1,60 @@
+{
+glyphname = Alpha;
+layers = (
+{
+layerId = m008;
+shapes = (
+{
+ref = A;
+}
+);
+width = 666;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = A;
+}
+);
+width = 626;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = A;
+}
+);
+width = 626;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+}
+);
+width = 666;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+}
+);
+width = 626;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = A;
+}
+);
+width = 666;
+}
+);
+unicode = 913;
+}

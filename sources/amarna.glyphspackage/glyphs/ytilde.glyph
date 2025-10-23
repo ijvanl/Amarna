@@ -1,0 +1,84 @@
+{
+glyphname = ytilde;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (25,-20);
+ref = tildecomb;
+}
+);
+width = 467;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (22,-20);
+ref = tildecomb;
+}
+);
+width = 467;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (25,-20);
+ref = tildecomb;
+}
+);
+width = 482;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (18,-20);
+ref = tildecomb;
+}
+);
+width = 472;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (25,-20);
+ref = tildecomb;
+}
+);
+width = 482;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (22,-20);
+ref = tildecomb;
+}
+);
+width = 482;
+}
+);
+unicode = 7929;
+}

@@ -10,9 +10,9 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Hairline
-      value: 100
     - name: Thin
+      value: 100
+    - name: ExtraLight
       value: 200
     - name: Light
       value: 300
@@ -22,7 +22,7 @@ stat:
       flags: 2
     - name: Medium
       value: 500
-    - name: Semibold
+    - name: SemiBold
       value: 600
     - name: Bold
       value: 700
@@ -37,9 +37,9 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Hairline
-      value: 100
     - name: Thin
+      value: 100
+    - name: ExtraLight
       value: 200
     - name: Light
       value: 300
@@ -49,7 +49,7 @@ stat:
       flags: 2
     - name: Medium
       value: 500
-    - name: Semibold
+    - name: SemiBold
       value: 600
     - name: Bold
       value: 700

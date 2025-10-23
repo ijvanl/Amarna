@@ -80,16 +80,15 @@ layerId = m009;
 shapes = (
 {
 alignment = -1;
-pos = (-16,0);
 ref = dot;
 },
 {
 alignment = -1;
-pos = (30,330);
+pos = (46,330);
 ref = dot;
 }
 );
-width = 252;
+width = 230;
 }
 );
 metricLeft = "=period";

@@ -1,0 +1,84 @@
+{
+glyphname = IJ;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (170,0);
+ref = J;
+}
+);
+width = 500;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (170,0);
+ref = J;
+}
+);
+width = 500;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (250,0);
+ref = J;
+}
+);
+width = 589;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (220,0);
+ref = J;
+}
+);
+width = 550;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (270,0);
+ref = J;
+}
+);
+width = 613;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (270,0);
+ref = J;
+}
+);
+width = 613;
+}
+);
+unicode = 306;
+}

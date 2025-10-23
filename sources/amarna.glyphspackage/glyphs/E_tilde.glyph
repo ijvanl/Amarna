@@ -1,0 +1,84 @@
+{
+glyphname = Etilde;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (84,200);
+ref = tildecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (92,200);
+ref = tildecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (99,200);
+ref = tildecomb;
+}
+);
+width = 595;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (92,200);
+ref = tildecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (99,200);
+ref = tildecomb;
+}
+);
+width = 595;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (127,200);
+ref = tildecomb;
+}
+);
+width = 595;
+}
+);
+unicode = 7868;
+}

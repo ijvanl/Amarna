@@ -1,0 +1,84 @@
+{
+glyphname = utilde;
+layers = (
+{
+layerId = m006;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (9,-20);
+ref = tildecomb;
+}
+);
+width = 495;
+},
+{
+layerId = m007;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (26,-20);
+ref = tildecomb;
+}
+);
+width = 495;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (59,-20);
+ref = tildecomb;
+}
+);
+width = 560;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (34,-10);
+ref = tildecomb;
+}
+);
+width = 530;
+},
+{
+layerId = m008;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (69,-20);
+ref = tildecomb;
+}
+);
+width = 580;
+},
+{
+layerId = m009;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (66,-20);
+ref = tildecomb;
+}
+);
+width = 580;
+}
+);
+unicode = 361;
+}
