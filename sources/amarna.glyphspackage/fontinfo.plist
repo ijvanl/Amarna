@@ -1,5 +1,5 @@
 {
-.appVersion = "3434";
+.appVersion = "3428";
 .formatVersion = 3;
 axes = (
 {
@@ -186,6 +186,21 @@ axesValues = (
 100,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 guides = (
 {
 angle = 113.6725;
@@ -223,7 +238,7 @@ over = -20;
 pos = -300;
 }
 );
-name = Hairline;
+name = Thin;
 stemValues = (
 35,
 25,
@@ -241,6 +256,21 @@ GSOffsetVertical = 10;
 axesValues = (
 100,
 1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 guides = (
 {
@@ -280,7 +310,7 @@ over = -20;
 pos = -300;
 }
 );
-name = "Hairline Italic";
+name = "Thin Italic";
 stemValues = (
 80,
 60,
@@ -298,6 +328,21 @@ GSOffsetVertical = 10;
 axesValues = (
 425,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
 );
 guides = (
 {
@@ -356,6 +401,21 @@ axesValues = (
 425,
 1
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
 guides = (
 {
 angle = 113.6725;
@@ -394,7 +454,7 @@ over = -20;
 pos = -300;
 }
 );
-name = "Regular Italic";
+name = Italic;
 stemValues = (
 80,
 60,
@@ -412,6 +472,21 @@ GSOffsetVertical = 10;
 axesValues = (
 700,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
 );
 guides = (
 {
@@ -469,6 +544,21 @@ axesValues = (
 700,
 1
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
 guides = (
 {
 angle = 113.6725;
@@ -525,81 +615,23 @@ GSOffsetVertical = 10;
 instances = (
 {
 axesValues = (
-400,
-0
-);
-name = Regular;
-},
-{
-axesValues = (
-400,
-1
-);
-isItalic = 1;
-linkStyle = Regular;
-name = Italic;
-},
-{
-axesValues = (
-500,
-0
-);
-name = Medium;
-weightClass = 500;
-},
-{
-axesValues = (
-500,
-1
-);
-isItalic = 1;
-linkStyle = Medium;
-name = "Medium Italic";
-weightClass = 500;
-},
-{
-axesValues = (
-600,
-0
-);
-name = SemiBold;
-weightClass = 600;
-},
-{
-axesValues = (
-600,
-1
-);
-isItalic = 1;
-linkStyle = SemiBold;
-name = "SemiBold Italic";
-weightClass = 600;
-},
-{
-axesValues = (
-700,
-0
-);
-isBold = 1;
-linkStyle = Regular;
-name = Bold;
-weightClass = 700;
-},
-{
-axesValues = (
-700,
-1
-);
-isBold = 1;
-isItalic = 1;
-linkStyle = Regular;
-name = "Bold Italic";
-weightClass = 700;
-},
-{
-axesValues = (
 100,
 0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
 );
 name = Thin;
 weightClass = 100;
@@ -608,6 +640,21 @@ weightClass = 100;
 axesValues = (
 100,
 1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 isItalic = 1;
 linkStyle = Thin;
@@ -619,6 +666,21 @@ axesValues = (
 200,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 name = ExtraLight;
 weightClass = 200;
 },
@@ -626,6 +688,21 @@ weightClass = 200;
 axesValues = (
 200,
 1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
 );
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -637,6 +714,21 @@ axesValues = (
 300,
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
 name = Light;
 weightClass = 300;
 },
@@ -645,10 +737,218 @@ axesValues = (
 300,
 1
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
 weightClass = 300;
+},
+{
+axesValues = (
+425,
+0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
+name = Regular;
+},
+{
+axesValues = (
+425,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
+},
+{
+axesValues = (
+500,
+0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+500,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
+weightClass = 500;
+},
+{
+axesValues = (
+600,
+0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+600,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+weightClass = 600;
+},
+{
+axesValues = (
+700,
+0
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 0;
+}
+);
+}
+);
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+700,
+1
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Italic;
+Location = 1;
+}
+);
+}
+);
+isBold = 1;
+isItalic = 1;
+linkStyle = Regular;
+name = "Bold Italic";
+weightClass = 700;
 }
 );
 kerningLTR = {
@@ -1843,6 +2143,15 @@ name = "Visual Descender";
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2025 The Amarna Project Authors (https://github.com/ijvanl/Amarna)";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -1854,6 +2163,19 @@ value = "Ishtar van Looy";
 {
 key = designerURL;
 value = "https://ishtar.page/";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 }
 );
 settings = {

@@ -1,4 +1,4 @@
-Copyright 2025 Ishtar van Looy (https://github.com/ijvanl/amarna)
+Copyright 2025 The Amarna Project Authors (https://github.com/ijvanl/Amarna)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

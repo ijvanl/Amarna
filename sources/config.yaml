@@ -5,6 +5,7 @@ axisOrder:
   - wght
   - ital
 familyName: Amarna
+cleanUp: true
 stat:
   Amarna[wght].ttf:
   - name: Weight
